@@ -1,0 +1,640 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,BREAKING: Federal appeals court rules against Trump administration on DACA https://t.co/KHnrNvEKAM,Thu Nov 08 19:18:44 +0000 2018,0.0,0.0,1.0,0.0
+1,Fox News,"Breaking News: Grand jury indicts captain of Missouri duck boat that sank in severe weather, killing 17 people https://t.co/ffOOgzRwdo",Thu Nov 08 17:02:25 +0000 2018,-0.6124,0.115,0.615,0.269
+2,Fox News,"JUST IN: Police identify gunman who opened fire inside California bar, killing 12 https://t.co/PvITYr54AX",Thu Nov 08 15:14:45 +0000 2018,-0.7783,0.0,0.638,0.362
+3,Fox News,JUST IN: Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall https://t.co/9UM9hKTz4m,Thu Nov 08 14:22:51 +0000 2018,0.7906,0.389,0.611,0.0
+4,Fox News,"Sgt. Ron Helus was fatally shot when he responded to the mass shooting on Nov. 7 at a bar in Thousand Oaks, Califor… https://t.co/vOH3OWPN5S",Thu Nov 08 13:43:25 +0000 2018,-0.6369,0.0,0.833,0.167
+5,Fox News,Tom Homan: “It’s a tragedy each and every time.” https://t.co/dMV68Hfdz0 https://t.co/hrq51VJg7x,Thu Nov 08 13:35:03 +0000 2018,-0.6597,0.0,0.672,0.328
+6,Fox News,"People walk away from the scene in Thousand Oaks, Calif. where a gunman opened fire Wednesday.… https://t.co/O3Oo2iLL8O",Thu Nov 08 13:22:27 +0000 2018,-0.34,0.0,0.862,0.138
+7,Fox News,Teylor Whittler describes what she witnessed at California bar shooting https://t.co/dMV68Hfdz0 https://t.co/YznTZgQoYY,Thu Nov 08 12:56:20 +0000 2018,0.0,0.0,1.0,0.0
+8,Fox News,"An FBI agent talks to a potential witness as they stand near the scene in Thousand Oaks, Calif. where a gunman open… https://t.co/7QOmXNTYM0",Thu Nov 08 12:37:05 +0000 2018,0.0,0.0,1.0,0.0
+9,Fox News,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene… https://t.co/o4gArhmy4e,Thu Nov 08 12:25:14 +0000 2018,-0.34,0.0,0.87,0.13
+10,Fox News,"People comfort each other as they stand near the scene in Thousand Oaks, Calif. where a gunman opened fire during a… https://t.co/wPI4XSpirC",Thu Nov 08 12:06:14 +0000 2018,0.0258,0.105,0.795,0.1
+11,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/dMV68Hfdz0 https://t.co/WvjarPpwPV",Thu Nov 08 11:54:22 +0000 2018,-0.6486,0.0,0.736,0.264
+12,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/GqI77wMuYZ",Thu Nov 08 11:38:17 +0000 2018,-0.6486,0.0,0.719,0.281
+13,Fox News,"Sheriff's deputies speak to potential witnesses as they stand near the scene in Thousand Oaks, Calif., where a gunm… https://t.co/jPE8k9oQHr",Thu Nov 08 11:32:26 +0000 2018,0.0,0.0,1.0,0.0
+14,Fox News,13 dead in country music bar including gunman https://t.co/PvITYr54AX https://t.co/UURBIatqte,Thu Nov 08 11:26:46 +0000 2018,-0.6486,0.0,0.677,0.323
+15,Fox News,"12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/PvITYr54AX https://t.co/o8Nf8WuJcZ",Thu Nov 08 11:18:08 +0000 2018,-0.6486,0.0,0.719,0.281
+16,Fox News,"Breaking News: At least 12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/u6sVxdzHq5",Thu Nov 08 11:13:32 +0000 2018,-0.6486,0.0,0.765,0.235
+17,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/cQ9uxkjUIK,Thu Nov 08 11:12:14 +0000 2018,0.0,0.0,1.0,0.0
+18,Fox News,"Authorities deliver an update on the shooting in Thousand Oaks, California. (Courtesy: KABC) https://t.co/BtGxxIfNx5",Thu Nov 08 10:53:33 +0000 2018,0.0,0.0,1.0,0.0
+19,Fox News,Pastor Dimas Salaberrios on California shooting: “My immediate thoughts go out to the families. Because what’s happ… https://t.co/iowf5VOL2l,Thu Nov 08 10:36:12 +0000 2018,0.0,0.0,1.0,0.0
+20,CNN,"BREAKING: Former Vice President Joe Biden will win the Minnesota Democratic primary, CNN projects #CNNelection… https://t.co/MUeKpLiu8J",Wed Mar 04 03:34:39 +0000 2020,0.5859,0.202,0.798,0.0
+21,CNN,"“Tonight, I tell you with absolute confidence we’re going to win the Democratic nomination, and we are going to def… https://t.co/83Fxj4ptmT",Wed Mar 04 03:25:26 +0000 2020,0.7964,0.283,0.717,0.0
+22,CNN,"BREAKING: Former Vice President Joe Biden will win the Arkansas Democratic primary, CNN projects #CNNelection… https://t.co/chVMGqUwhD",Wed Mar 04 03:17:19 +0000 2020,0.5859,0.202,0.798,0.0
+23,CNN,"BREAKING: Former Vice President Joe Biden will win the Oklahoma Democratic primary, CNN projects #CNNelection… https://t.co/33ii0eu5ln",Wed Mar 04 03:05:12 +0000 2020,0.5859,0.202,0.798,0.0
+24,CNN,This woman is sending praise to a state trooper who went above and beyond the call of duty. She says she was having… https://t.co/3wob1DPExZ,Wed Mar 04 02:58:52 +0000 2020,0.5574,0.141,0.859,0.0
+25,CNN,"RT @CNNPolitics: CNN's Jake Tapper explains why Joe Biden's strong showing ""makes it less clear"" who is going to be the Democratic nominee:…",Wed Mar 04 02:53:47 +0000 2020,0.6815,0.211,0.789,0.0
+26,CNN,"Bernie Sanders will win the Colorado Democratic primary, CNN projects, his second victory tonight. #CNNelection 
+
+F… https://t.co/mAV9cyBknv",Wed Mar 04 02:48:28 +0000 2020,0.5859,0.192,0.808,0.0
+27,CNN,"Joe Biden grabbed huge early victories on Super Tuesday, winning the prized Virginia and North Carolina Democratic… https://t.co/9O3Mv1bGSw",Wed Mar 04 02:46:40 +0000 2020,0.9186,0.481,0.519,0.0
+28,CNN,"BREAKING: Sen. Bernie Sanders will win the Colorado Democratic primary, CNN projects #CNNElection… https://t.co/1JFCqCykmW",Wed Mar 04 02:43:08 +0000 2020,0.5859,0.226,0.774,0.0
+29,CNN,"BREAKING: Former Vice President Joe Biden will win the Tennessee Democratic primary, CNN projects #CNNElection… https://t.co/CVFLFu9fho",Wed Mar 04 02:40:07 +0000 2020,0.5859,0.202,0.798,0.0
+30,CNN,"RT @CNNPolitics: CNN's Van Jones breaks down the generational divide among African American voters: ""It's very interesting because there's…",Wed Mar 04 02:39:12 +0000 2020,0.4576,0.143,0.857,0.0
+31,CNN,"RT @CNNPolitics: Polls have closed in 12 of tonight's 14 Super Tuesday states.
+
+Follow live results here: https://t.co/9UfaM66l5z #CNNelect…",Wed Mar 04 02:30:07 +0000 2020,0.5994,0.178,0.822,0.0
+32,CNN,"One week ago, Iran had fewer than 100 confirmed coronavirus cases. On Tuesday, Iranian authorities said there were… https://t.co/nKVEaUXVCZ",Wed Mar 04 02:20:05 +0000 2020,0.0,0.0,1.0,0.0
+33,CNN,Amazon is informing employees that one of its Seattle-based workers has been diagnosed with coronavirus https://t.co/wbBD9x9O4a,Wed Mar 04 02:11:36 +0000 2020,0.1779,0.102,0.898,0.0
+34,CNN,"Google is canceling Google I/O, an annual developer conference and its biggest event of the year, because of concer… https://t.co/qoyHHfJ6hv",Wed Mar 04 01:57:49 +0000 2020,0.0,0.0,1.0,0.0
+35,CNN,"Severe storms and at least one tornado slammed through central Tennessee, killing 25 people and wrecking hundreds o… https://t.co/EfRrFSDfRt",Wed Mar 04 01:56:26 +0000 2020,-0.7906,0.0,0.708,0.292
+36,CNN,"The case against a Connecticut man accused of killing his wife effectively ended today, his lawyers told CNN. Fotis… https://t.co/cYs6xZmeWN",Wed Mar 04 01:49:47 +0000 2020,-0.5719,0.114,0.627,0.259
+37,CNN,"RT @CNNPolitics: CNN's Van Jones reacts to Joe Biden's projected early victories: ""I think what's going on is this party is trying to find…",Wed Mar 04 01:37:29 +0000 2020,0.481,0.12,0.88,0.0
+38,CNN,"An emergency rate cut from the Federal Reserve, the 10-year Treasury bond yield at historic lows — if you've been w… https://t.co/as3XgDHtju",Wed Mar 04 01:36:59 +0000 2020,-0.5719,0.071,0.672,0.257
+39,CNN,"Rep. Tulsi Gabbard got her first delegate from American Samoa tonight.
+
+The Hawaii representative, who was born in… https://t.co/dG3S1MXsAV",Wed Mar 04 01:25:23 +0000 2020,0.0,0.0,1.0,0.0
+40,BBC News (World),"Joe Biden is projected to win Oklahoma, where 37 delegates are up for grabs 
+
+Follow our live coverage:… https://t.co/NSSApD3KH2",Wed Mar 04 03:35:26 +0000 2020,0.5859,0.174,0.826,0.0
+41,BBC News (World),"Joe Biden is projected to win Arkansas, where 31 delegates are up for grabs
+
+Follow our live coverage:… https://t.co/G0NNai6CYW",Wed Mar 04 03:21:03 +0000 2020,0.5859,0.174,0.826,0.0
+42,BBC News (World),"RT @BBCNorthAmerica: Senator Bernie Sanders addresses supporters in his home state of Vermont on #SuperTuesday
+
+""We're going to win because…",Wed Mar 04 03:19:40 +0000 2020,0.7717,0.271,0.729,0.0
+43,BBC News (World),"Bernie Sanders is projected to win Colorado, where 67 delegates are at stake 
+
+Follow live results:… https://t.co/5RupUhi33t",Wed Mar 04 02:50:17 +0000 2020,0.5859,0.192,0.808,0.0
+44,BBC News (World),RT @NickBryantNY: Joe Biden benefited enormously from short turnaround between South Carolina and Super Tuesday.  A problem in Iowa and New…,Wed Mar 04 02:48:16 +0000 2020,0.296,0.159,0.732,0.11
+45,BBC News (World),"Joe Biden is projected to win Tennessee, with 64 delegates at stake 
+
+Voting was extended after 25 people were kill… https://t.co/LmomrFrX2x",Wed Mar 04 02:31:49 +0000 2020,0.5859,0.16,0.84,0.0
+46,BBC News (World),Why the Latino vote matters on #SuperTuesday 👇 https://t.co/7jWBUlIZr7,Wed Mar 04 02:14:18 +0000 2020,0.0258,0.091,0.909,0.0
+47,BBC News (World),RT @BBCNorthAmerica: The BBC's @davidgrossman found Mike Bloomberg's campaign offices empty in California - the state with the largest numb…,Wed Mar 04 01:22:34 +0000 2020,-0.2023,0.0,0.909,0.091
+48,BBC News (World),"RT @BBCNorthAmerica: Joe Biden is projected to win Alabama, but three other states are still tossups
+
+❓Massachusetts
+❓Oklahoma
+❓Maine
+
+Foll…",Wed Mar 04 01:18:15 +0000 2020,0.34,0.112,0.888,0.0
+49,BBC News (World),"Joe Biden is projected to win Alabama, where 52 delegates are at stake 
+
+Follow our live results:… https://t.co/rKaScLK4tV",Wed Mar 04 01:09:13 +0000 2020,0.5859,0.183,0.817,0.0
+50,BBC News (World),"Joe Biden is projected to win North Carolina, where 110 delegates are at stake
+
+Follow our live results:… https://t.co/l8nRz1cZYR",Wed Mar 04 00:33:48 +0000 2020,0.5859,0.174,0.826,0.0
+51,BBC News (World),"Joe Biden is projected to win Virginia, where 99 delegates are at stake
+
+Follow our live results:… https://t.co/u3PY06XVkP",Wed Mar 04 00:17:22 +0000 2020,0.5859,0.183,0.817,0.0
+52,BBC News (World),Tedros Adhanom Ghebreyesus: The Ethiopian at the heart of the coronavirus fight https://t.co/MnE4q08FGb,Wed Mar 04 00:16:21 +0000 2020,-0.3818,0.0,0.822,0.178
+53,BBC News (World),Super Tuesday: Biden and Sanders take early lead https://t.co/hnKbrc8eSv,Wed Mar 04 00:13:27 +0000 2020,0.5994,0.328,0.672,0.0
+54,BBC News (World),"Bernie Sanders is projected to win his home state of Vermont, which has 16 delegates 
+
+Follow our live results:… https://t.co/wvyCT6Drhm",Wed Mar 04 00:13:10 +0000 2020,0.5859,0.167,0.833,0.0
+55,BBC News (World),Slovakia's Matovic: Europe's Mr Ordinary prepares for power https://t.co/43GbT809SY,Wed Mar 04 00:06:40 +0000 2020,0.0,0.0,1.0,0.0
+56,BBC News (World),Delhi riots: How Muslims' homes were targeted and burnt https://t.co/yarviketjE,Wed Mar 04 00:04:20 +0000 2020,-0.5106,0.0,0.732,0.268
+57,BBC News (World),"After lagging in early contests, former VP Joe Biden has got a boost from some key endorsements - including his for… https://t.co/Xygl3SJ1rA",Tue Mar 03 23:42:41 +0000 2020,0.1531,0.118,0.789,0.092
+58,BBC News (World),"Tonight, eyes are on the current Democratic front-runner, Senator Bernie Sanders
+
+What does the senator promise to… https://t.co/6XE78w7X84",Tue Mar 03 23:34:29 +0000 2020,0.3182,0.119,0.881,0.0
+59,BBC News (World),"Time for a pop quiz
+
+Can you match the A-list celebrity to the presidential candidate they're supporting?… https://t.co/F2cANn5eVi",Tue Mar 03 23:33:28 +0000 2020,0.0,0.0,1.0,0.0
+60,CBS News,"Joe Biden says he ""won Minnesota because of Amy Klobuchar"" and is ""doing well in Texas"" because of Beto O'Rourke. B… https://t.co/656OvwwB7P",Wed Mar 04 03:35:47 +0000 2020,0.7003,0.225,0.775,0.0
+61,CBS News,"With about 40 percent of the expected vote in, the race in Texas is still a toss-up between Sanders and Biden.… https://t.co/hlM316lm5z",Wed Mar 04 03:35:23 +0000 2020,0.0,0.0,1.0,0.0
+62,CBS News,"The current CBS News delegate estimate at 10:30pm. 
+
+https://t.co/dejxP1swQq https://t.co/ZJ33hrv4cv",Wed Mar 04 03:34:13 +0000 2020,0.0,0.0,1.0,0.0
+63,CBS News,"CBS News projects Biden wins the Minnesota primary. 
+
+https://t.co/dejxP1swQq https://t.co/NamornEojM",Wed Mar 04 03:32:00 +0000 2020,0.5719,0.291,0.709,0.0
+64,CBS News,"RT @adam_brew: .@CBSNews projects Bernie Sanders wins the Utah primary. 
+
+These are the races CBS News has called at this point: 
+Vermont -…",Wed Mar 04 03:31:49 +0000 2020,0.5719,0.144,0.856,0.0
+65,CBS News,"CBS News projects Bernie Sanders wins Utah. 
+
+https://t.co/dejxP1swQq https://t.co/myaRij0b5S",Wed Mar 04 03:29:34 +0000 2020,0.5719,0.316,0.684,0.0
+66,CBS News,"Joe Biden: ""We were told when we got to Super Tuesday, it'll be over. Well, it may be over for the other guy.""… https://t.co/PH1zCsZ1E4",Wed Mar 04 03:28:34 +0000 2020,0.7184,0.214,0.786,0.0
+67,CBS News,WATCH LIVE: Joe Biden speaks to supporters in Los Angeles after a sweep of Super Tuesday victories has put him in t… https://t.co/lFvMVlXVb1,Wed Mar 04 03:24:58 +0000 2020,0.7783,0.254,0.746,0.0
+68,CBS News,RT @CHueyBurns: I think one of the biggest stories of the night is the power of the late deciders. Some anecdotes in this thread: https://t…,Wed Mar 04 03:22:55 +0000 2020,0.0,0.0,1.0,0.0
+69,CBS News,"Dylan Farrow calls publishing of Woody Allen's upcoming memoir an ""utter betrayal"" https://t.co/azWerFNIgf https://t.co/NJPOPDvV4Z",Wed Mar 04 03:20:01 +0000 2020,-0.5859,0.0,0.774,0.226
+70,CBS News,"RT @EwallWice: Updated projections from @CBSNews:
+
+@JoeBiden wins: Arkansas, Oklahoma, Virginia, Alabama, North Carolina, Tennessee
+
+@Berni…",Wed Mar 04 03:14:54 +0000 2020,0.5719,0.198,0.802,0.0
+71,CBS News,"CBS News estimates Minnesota leans towards Joe Biden. 
+
+https://t.co/dejxP1swQq https://t.co/gdpXU25kyE",Wed Mar 04 03:13:12 +0000 2020,0.0,0.0,1.0,0.0
+72,CBS News,"CBS News projects Joe Biden wins the Arkansas primary. 
+
+https://t.co/dejxP1aVYS https://t.co/apXLeRF8WX",Wed Mar 04 03:11:02 +0000 2020,0.5719,0.27,0.73,0.0
+73,CBS News,"Bernie Sanders tells supporters in Vermont: ""Tonight, I tell you with absolute confidence, we are going to win the… https://t.co/6nNb2WMnzZ",Wed Mar 04 03:10:41 +0000 2020,0.875,0.385,0.615,0.0
+74,CBS News,"HAPPENING NOW: Bernie Sanders takes the stage to address supporters in Essex Junction, Vermont… https://t.co/PqtXeaLSPr",Wed Mar 04 03:08:14 +0000 2020,0.4404,0.172,0.828,0.0
+75,CBS News,"RACE UPDATE: CBS News estimates Massachusetts leans towards Joe Biden. 
+https://t.co/dejxP1swQq https://t.co/djSNsnlfI3",Wed Mar 04 03:08:01 +0000 2020,0.0,0.0,1.0,0.0
+76,CBS News,"CBS News projects Joe Biden wins the Oklahoma primary. 
+https://t.co/dejxP1swQq https://t.co/lYO7tttzcQ",Wed Mar 04 03:06:48 +0000 2020,0.5719,0.27,0.73,0.0
+77,CBS News,".@NorahODonnell: ""Tonight, it is coming down to a two-man race for the Democratic presidential nomination. And thos… https://t.co/ClEo4U4IdG",Wed Mar 04 03:05:07 +0000 2020,0.0,0.0,1.0,0.0
+78,CBS News,"The current CBS News delegate estimate as of 10pm. 
+
+https://t.co/dejxP1swQq https://t.co/sPP3jqssev",Wed Mar 04 03:03:32 +0000 2020,0.0,0.0,1.0,0.0
+79,CBS News,"School resource officer prays for students at flagpole every day
+https://t.co/mzD0G9gLOv https://t.co/iq1o5OX3yI",Wed Mar 04 02:59:38 +0000 2020,0.34,0.179,0.821,0.0
+80,The New York Times,Breaking News: Joe Biden won Minnesota in an upset after he was endorsed by Amy Klobuchar — his 7th victory of Supe… https://t.co/cq2yZgm1LM,Wed Mar 04 03:39:29 +0000 2020,0.4767,0.209,0.696,0.095
+81,The New York Times,"Breaking News: Bernie Sanders won Utah, his 3rd victory of Super Tuesday. He also carried the state in 2016.… https://t.co/skPAIOfaJ3",Wed Mar 04 03:35:24 +0000 2020,0.8225,0.297,0.703,0.0
+82,The New York Times,"RT @jennymedina: NEW: Sanders camp in California filed emergency injunction to keep Los Angeles County  polls open until 10 p.m. tonight, a…",Wed Mar 04 03:27:54 +0000 2020,-0.3818,0.0,0.89,0.11
+83,The New York Times,"Joe Biden is leading the Massachusetts Democratic presidential primary, with 31% of precincts reporting. Elizabeth… https://t.co/9NGxJEohz5",Wed Mar 04 03:25:25 +0000 2020,0.0,0.0,1.0,0.0
+84,The New York Times,"Ronan Farrow, the author of the book “Catch and Kill,” said on Tuesday that he would cut ties with his publisher, H… https://t.co/WCBXdnQeLV",Wed Mar 04 03:21:02 +0000 2020,-0.2732,0.0,0.913,0.087
+85,The New York Times,"Breaking News: Joe Biden won Oklahoma, a state that Bernie Sanders won in 2016, and Arkansas. Follow more live upda… https://t.co/HAGh7V7Rmb",Wed Mar 04 03:11:17 +0000 2020,0.8126,0.291,0.709,0.0
+86,The New York Times,Polls have now closed in Utah. Follow live results from all of the Super Tuesday states here. https://t.co/B63P81VSMW,Wed Mar 04 03:03:57 +0000 2020,0.5994,0.187,0.813,0.0
+87,The New York Times,"Breaking News: Bernie Sanders won Colorado, which has a large Latino population. He did well with young voters and… https://t.co/lFhDXS3Qwn",Wed Mar 04 02:46:02 +0000 2020,0.7003,0.254,0.746,0.0
+88,The New York Times,"With 16% of precincts reporting, here’s who’s leading the Minnesota Democratic presidential primary.
+
+Follow all of… https://t.co/voVKEnLSsh",Wed Mar 04 02:34:01 +0000 2020,0.0,0.0,1.0,0.0
+89,The New York Times,"RT @nytgraphics: There are at least 118 coronavirus cases in the United States. Here’s what we know about them:
+
+https://t.co/MOCwSZydRh",Wed Mar 04 02:30:11 +0000 2020,0.4215,0.128,0.872,0.0
+90,The New York Times,"Breaking News: Joe Biden won Tennessee, his 4th Super Tuesday win. He was favored by a wide margin among black vote… https://t.co/fLqotkEGbs",Wed Mar 04 02:19:17 +0000 2020,0.9349,0.455,0.545,0.0
+91,The New York Times,"RT @ByMikeBaker: Coronavirus today:
+• 9 dead
+• Past deaths tied to virus
+• 2 people in their 20s hospitalized
+• 12 first responders ill
+• A…",Wed Mar 04 02:16:04 +0000 2020,-0.7964,0.0,0.717,0.283
+92,The New York Times,"""Bernie Sanders's advisers are saying it’s still early, which it is,"" reports @melbournecoal from Vermont. ""Texas p… https://t.co/KOTTKSgTDZ",Wed Mar 04 02:10:48 +0000 2020,0.0,0.0,1.0,0.0
+93,The New York Times,"Polls have now closed in Colorado, Minnesota and Texas. Follow live results from all of the Super Tuesday states he… https://t.co/cGCEBYBzGM",Wed Mar 04 02:00:57 +0000 2020,0.5994,0.163,0.837,0.0
+94,The New York Times,"With 97% of precincts reporting, these are the latest results from Virginia's Democratic presidential primary. Joe… https://t.co/Gcdox4jKbj",Wed Mar 04 01:49:31 +0000 2020,0.0,0.0,1.0,0.0
+95,The New York Times,"Mike Bloomberg won American Samoa, his first win of Super Tuesday. It awards 6 delegates in all, and Tulsi Gabbard… https://t.co/HnMFFg1iBv",Wed Mar 04 01:36:24 +0000 2020,0.9371,0.474,0.526,0.0
+96,The New York Times,Polls have now closed in Arkansas. Follow live results from all of the Super Tuesday states here. https://t.co/6v58odlALZ,Wed Mar 04 01:33:03 +0000 2020,0.5994,0.187,0.813,0.0
+97,The New York Times,"Breaking News: Joe Biden won Alabama, his 3rd win of the night. Follow more live results from Super Tuesday.… https://t.co/EVlgAuEKSV",Wed Mar 04 01:16:43 +0000 2020,0.9081,0.401,0.599,0.0
+98,The New York Times,"Polls have now closed in Alabama, Maine, Massachusetts, Oklahoma and parts of Texas. Follow live results from all o… https://t.co/WNz3g18BYb",Wed Mar 04 01:04:31 +0000 2020,0.0,0.0,1.0,0.0
+99,The New York Times,Voting was extended in one North Carolina precinct until 8 p.m. Eastern because of a ballot shortage. Joe Biden was… https://t.co/slBk7ohz7v,Wed Mar 04 00:47:57 +0000 2020,-0.25,0.0,0.9,0.1
+100,Fox News,BREAKING: Federal appeals court rules against Trump administration on DACA https://t.co/KHnrNvEKAM,Thu Nov 08 19:18:44 +0000 2018,0.0,0.0,1.0,0.0
+101,Fox News,"Breaking News: Grand jury indicts captain of Missouri duck boat that sank in severe weather, killing 17 people https://t.co/ffOOgzRwdo",Thu Nov 08 17:02:25 +0000 2018,-0.6124,0.115,0.615,0.269
+102,Fox News,"JUST IN: Police identify gunman who opened fire inside California bar, killing 12 https://t.co/PvITYr54AX",Thu Nov 08 15:14:45 +0000 2018,-0.7783,0.0,0.638,0.362
+103,Fox News,JUST IN: Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall https://t.co/9UM9hKTz4m,Thu Nov 08 14:22:51 +0000 2018,0.7906,0.389,0.611,0.0
+104,Fox News,"Sgt. Ron Helus was fatally shot when he responded to the mass shooting on Nov. 7 at a bar in Thousand Oaks, Califor… https://t.co/vOH3OWPN5S",Thu Nov 08 13:43:25 +0000 2018,-0.6369,0.0,0.833,0.167
+105,Fox News,Tom Homan: “It’s a tragedy each and every time.” https://t.co/dMV68Hfdz0 https://t.co/hrq51VJg7x,Thu Nov 08 13:35:03 +0000 2018,-0.6597,0.0,0.672,0.328
+106,Fox News,"People walk away from the scene in Thousand Oaks, Calif. where a gunman opened fire Wednesday.… https://t.co/O3Oo2iLL8O",Thu Nov 08 13:22:27 +0000 2018,-0.34,0.0,0.862,0.138
+107,Fox News,Teylor Whittler describes what she witnessed at California bar shooting https://t.co/dMV68Hfdz0 https://t.co/YznTZgQoYY,Thu Nov 08 12:56:20 +0000 2018,0.0,0.0,1.0,0.0
+108,Fox News,"An FBI agent talks to a potential witness as they stand near the scene in Thousand Oaks, Calif. where a gunman open… https://t.co/7QOmXNTYM0",Thu Nov 08 12:37:05 +0000 2018,0.0,0.0,1.0,0.0
+109,Fox News,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene… https://t.co/o4gArhmy4e,Thu Nov 08 12:25:14 +0000 2018,-0.34,0.0,0.87,0.13
+110,Fox News,"People comfort each other as they stand near the scene in Thousand Oaks, Calif. where a gunman opened fire during a… https://t.co/wPI4XSpirC",Thu Nov 08 12:06:14 +0000 2018,0.0258,0.105,0.795,0.1
+111,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/dMV68Hfdz0 https://t.co/WvjarPpwPV",Thu Nov 08 11:54:22 +0000 2018,-0.6486,0.0,0.736,0.264
+112,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/GqI77wMuYZ",Thu Nov 08 11:38:17 +0000 2018,-0.6486,0.0,0.719,0.281
+113,Fox News,"Sheriff's deputies speak to potential witnesses as they stand near the scene in Thousand Oaks, Calif., where a gunm… https://t.co/jPE8k9oQHr",Thu Nov 08 11:32:26 +0000 2018,0.0,0.0,1.0,0.0
+114,Fox News,13 dead in country music bar including gunman https://t.co/PvITYr54AX https://t.co/UURBIatqte,Thu Nov 08 11:26:46 +0000 2018,-0.6486,0.0,0.677,0.323
+115,Fox News,"12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/PvITYr54AX https://t.co/o8Nf8WuJcZ",Thu Nov 08 11:18:08 +0000 2018,-0.6486,0.0,0.719,0.281
+116,Fox News,"Breaking News: At least 12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/u6sVxdzHq5",Thu Nov 08 11:13:32 +0000 2018,-0.6486,0.0,0.765,0.235
+117,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/cQ9uxkjUIK,Thu Nov 08 11:12:14 +0000 2018,0.0,0.0,1.0,0.0
+118,Fox News,"Authorities deliver an update on the shooting in Thousand Oaks, California. (Courtesy: KABC) https://t.co/BtGxxIfNx5",Thu Nov 08 10:53:33 +0000 2018,0.0,0.0,1.0,0.0
+119,Fox News,Pastor Dimas Salaberrios on California shooting: “My immediate thoughts go out to the families. Because what’s happ… https://t.co/iowf5VOL2l,Thu Nov 08 10:36:12 +0000 2018,0.0,0.0,1.0,0.0
+120,CNN,"BREAKING: Former Vice President Joe Biden will win the Minnesota Democratic primary, CNN projects #CNNelection… https://t.co/MUeKpLiu8J",Wed Mar 04 03:34:39 +0000 2020,0.5859,0.202,0.798,0.0
+121,CNN,"“Tonight, I tell you with absolute confidence we’re going to win the Democratic nomination, and we are going to def… https://t.co/83Fxj4ptmT",Wed Mar 04 03:25:26 +0000 2020,0.7964,0.283,0.717,0.0
+122,CNN,"BREAKING: Former Vice President Joe Biden will win the Arkansas Democratic primary, CNN projects #CNNelection… https://t.co/chVMGqUwhD",Wed Mar 04 03:17:19 +0000 2020,0.5859,0.202,0.798,0.0
+123,CNN,"BREAKING: Former Vice President Joe Biden will win the Oklahoma Democratic primary, CNN projects #CNNelection… https://t.co/33ii0eu5ln",Wed Mar 04 03:05:12 +0000 2020,0.5859,0.202,0.798,0.0
+124,CNN,This woman is sending praise to a state trooper who went above and beyond the call of duty. She says she was having… https://t.co/3wob1DPExZ,Wed Mar 04 02:58:52 +0000 2020,0.5574,0.141,0.859,0.0
+125,CNN,"RT @CNNPolitics: CNN's Jake Tapper explains why Joe Biden's strong showing ""makes it less clear"" who is going to be the Democratic nominee:…",Wed Mar 04 02:53:47 +0000 2020,0.6815,0.211,0.789,0.0
+126,CNN,"Bernie Sanders will win the Colorado Democratic primary, CNN projects, his second victory tonight. #CNNelection 
+
+F… https://t.co/mAV9cyBknv",Wed Mar 04 02:48:28 +0000 2020,0.5859,0.192,0.808,0.0
+127,CNN,"Joe Biden grabbed huge early victories on Super Tuesday, winning the prized Virginia and North Carolina Democratic… https://t.co/9O3Mv1bGSw",Wed Mar 04 02:46:40 +0000 2020,0.9186,0.481,0.519,0.0
+128,CNN,"BREAKING: Sen. Bernie Sanders will win the Colorado Democratic primary, CNN projects #CNNElection… https://t.co/1JFCqCykmW",Wed Mar 04 02:43:08 +0000 2020,0.5859,0.226,0.774,0.0
+129,CNN,"BREAKING: Former Vice President Joe Biden will win the Tennessee Democratic primary, CNN projects #CNNElection… https://t.co/CVFLFu9fho",Wed Mar 04 02:40:07 +0000 2020,0.5859,0.202,0.798,0.0
+130,CNN,"RT @CNNPolitics: CNN's Van Jones breaks down the generational divide among African American voters: ""It's very interesting because there's…",Wed Mar 04 02:39:12 +0000 2020,0.4576,0.143,0.857,0.0
+131,CNN,"RT @CNNPolitics: Polls have closed in 12 of tonight's 14 Super Tuesday states.
+
+Follow live results here: https://t.co/9UfaM66l5z #CNNelect…",Wed Mar 04 02:30:07 +0000 2020,0.5994,0.178,0.822,0.0
+132,CNN,"One week ago, Iran had fewer than 100 confirmed coronavirus cases. On Tuesday, Iranian authorities said there were… https://t.co/nKVEaUXVCZ",Wed Mar 04 02:20:05 +0000 2020,0.0,0.0,1.0,0.0
+133,CNN,Amazon is informing employees that one of its Seattle-based workers has been diagnosed with coronavirus https://t.co/wbBD9x9O4a,Wed Mar 04 02:11:36 +0000 2020,0.1779,0.102,0.898,0.0
+134,CNN,"Google is canceling Google I/O, an annual developer conference and its biggest event of the year, because of concer… https://t.co/qoyHHfJ6hv",Wed Mar 04 01:57:49 +0000 2020,0.0,0.0,1.0,0.0
+135,CNN,"Severe storms and at least one tornado slammed through central Tennessee, killing 25 people and wrecking hundreds o… https://t.co/EfRrFSDfRt",Wed Mar 04 01:56:26 +0000 2020,-0.7906,0.0,0.708,0.292
+136,CNN,"The case against a Connecticut man accused of killing his wife effectively ended today, his lawyers told CNN. Fotis… https://t.co/cYs6xZmeWN",Wed Mar 04 01:49:47 +0000 2020,-0.5719,0.114,0.627,0.259
+137,CNN,"RT @CNNPolitics: CNN's Van Jones reacts to Joe Biden's projected early victories: ""I think what's going on is this party is trying to find…",Wed Mar 04 01:37:29 +0000 2020,0.481,0.12,0.88,0.0
+138,CNN,"An emergency rate cut from the Federal Reserve, the 10-year Treasury bond yield at historic lows — if you've been w… https://t.co/as3XgDHtju",Wed Mar 04 01:36:59 +0000 2020,-0.5719,0.071,0.672,0.257
+139,CNN,"Rep. Tulsi Gabbard got her first delegate from American Samoa tonight.
+
+The Hawaii representative, who was born in… https://t.co/dG3S1MXsAV",Wed Mar 04 01:25:23 +0000 2020,0.0,0.0,1.0,0.0
+140,BBC News (World),"Joe Biden is projected to win Oklahoma, where 37 delegates are up for grabs 
+
+Follow our live coverage:… https://t.co/NSSApD3KH2",Wed Mar 04 03:35:26 +0000 2020,0.5859,0.174,0.826,0.0
+141,BBC News (World),"Joe Biden is projected to win Arkansas, where 31 delegates are up for grabs
+
+Follow our live coverage:… https://t.co/G0NNai6CYW",Wed Mar 04 03:21:03 +0000 2020,0.5859,0.174,0.826,0.0
+142,BBC News (World),"RT @BBCNorthAmerica: Senator Bernie Sanders addresses supporters in his home state of Vermont on #SuperTuesday
+
+""We're going to win because…",Wed Mar 04 03:19:40 +0000 2020,0.7717,0.271,0.729,0.0
+143,BBC News (World),"Bernie Sanders is projected to win Colorado, where 67 delegates are at stake 
+
+Follow live results:… https://t.co/5RupUhi33t",Wed Mar 04 02:50:17 +0000 2020,0.5859,0.192,0.808,0.0
+144,BBC News (World),RT @NickBryantNY: Joe Biden benefited enormously from short turnaround between South Carolina and Super Tuesday.  A problem in Iowa and New…,Wed Mar 04 02:48:16 +0000 2020,0.296,0.159,0.732,0.11
+145,BBC News (World),"Joe Biden is projected to win Tennessee, with 64 delegates at stake 
+
+Voting was extended after 25 people were kill… https://t.co/LmomrFrX2x",Wed Mar 04 02:31:49 +0000 2020,0.5859,0.16,0.84,0.0
+146,BBC News (World),Why the Latino vote matters on #SuperTuesday 👇 https://t.co/7jWBUlIZr7,Wed Mar 04 02:14:18 +0000 2020,0.0258,0.091,0.909,0.0
+147,BBC News (World),RT @BBCNorthAmerica: The BBC's @davidgrossman found Mike Bloomberg's campaign offices empty in California - the state with the largest numb…,Wed Mar 04 01:22:34 +0000 2020,-0.2023,0.0,0.909,0.091
+148,BBC News (World),"RT @BBCNorthAmerica: Joe Biden is projected to win Alabama, but three other states are still tossups
+
+❓Massachusetts
+❓Oklahoma
+❓Maine
+
+Foll…",Wed Mar 04 01:18:15 +0000 2020,0.34,0.112,0.888,0.0
+149,BBC News (World),"Joe Biden is projected to win Alabama, where 52 delegates are at stake 
+
+Follow our live results:… https://t.co/rKaScLK4tV",Wed Mar 04 01:09:13 +0000 2020,0.5859,0.183,0.817,0.0
+150,BBC News (World),"Joe Biden is projected to win North Carolina, where 110 delegates are at stake
+
+Follow our live results:… https://t.co/l8nRz1cZYR",Wed Mar 04 00:33:48 +0000 2020,0.5859,0.174,0.826,0.0
+151,BBC News (World),"Joe Biden is projected to win Virginia, where 99 delegates are at stake
+
+Follow our live results:… https://t.co/u3PY06XVkP",Wed Mar 04 00:17:22 +0000 2020,0.5859,0.183,0.817,0.0
+152,BBC News (World),Tedros Adhanom Ghebreyesus: The Ethiopian at the heart of the coronavirus fight https://t.co/MnE4q08FGb,Wed Mar 04 00:16:21 +0000 2020,-0.3818,0.0,0.822,0.178
+153,BBC News (World),Super Tuesday: Biden and Sanders take early lead https://t.co/hnKbrc8eSv,Wed Mar 04 00:13:27 +0000 2020,0.5994,0.328,0.672,0.0
+154,BBC News (World),"Bernie Sanders is projected to win his home state of Vermont, which has 16 delegates 
+
+Follow our live results:… https://t.co/wvyCT6Drhm",Wed Mar 04 00:13:10 +0000 2020,0.5859,0.167,0.833,0.0
+155,BBC News (World),Slovakia's Matovic: Europe's Mr Ordinary prepares for power https://t.co/43GbT809SY,Wed Mar 04 00:06:40 +0000 2020,0.0,0.0,1.0,0.0
+156,BBC News (World),Delhi riots: How Muslims' homes were targeted and burnt https://t.co/yarviketjE,Wed Mar 04 00:04:20 +0000 2020,-0.5106,0.0,0.732,0.268
+157,BBC News (World),"After lagging in early contests, former VP Joe Biden has got a boost from some key endorsements - including his for… https://t.co/Xygl3SJ1rA",Tue Mar 03 23:42:41 +0000 2020,0.1531,0.118,0.789,0.092
+158,BBC News (World),"Tonight, eyes are on the current Democratic front-runner, Senator Bernie Sanders
+
+What does the senator promise to… https://t.co/6XE78w7X84",Tue Mar 03 23:34:29 +0000 2020,0.3182,0.119,0.881,0.0
+159,BBC News (World),"Time for a pop quiz
+
+Can you match the A-list celebrity to the presidential candidate they're supporting?… https://t.co/F2cANn5eVi",Tue Mar 03 23:33:28 +0000 2020,0.0,0.0,1.0,0.0
+160,CBS News,"Joe Biden says he ""won Minnesota because of Amy Klobuchar"" and is ""doing well in Texas"" because of Beto O'Rourke. B… https://t.co/656OvwwB7P",Wed Mar 04 03:35:47 +0000 2020,0.7003,0.225,0.775,0.0
+161,CBS News,"With about 40 percent of the expected vote in, the race in Texas is still a toss-up between Sanders and Biden.… https://t.co/hlM316lm5z",Wed Mar 04 03:35:23 +0000 2020,0.0,0.0,1.0,0.0
+162,CBS News,"The current CBS News delegate estimate at 10:30pm. 
+
+https://t.co/dejxP1swQq https://t.co/ZJ33hrv4cv",Wed Mar 04 03:34:13 +0000 2020,0.0,0.0,1.0,0.0
+163,CBS News,"CBS News projects Biden wins the Minnesota primary. 
+
+https://t.co/dejxP1swQq https://t.co/NamornEojM",Wed Mar 04 03:32:00 +0000 2020,0.5719,0.291,0.709,0.0
+164,CBS News,"RT @adam_brew: .@CBSNews projects Bernie Sanders wins the Utah primary. 
+
+These are the races CBS News has called at this point: 
+Vermont -…",Wed Mar 04 03:31:49 +0000 2020,0.5719,0.144,0.856,0.0
+165,CBS News,"CBS News projects Bernie Sanders wins Utah. 
+
+https://t.co/dejxP1swQq https://t.co/myaRij0b5S",Wed Mar 04 03:29:34 +0000 2020,0.5719,0.316,0.684,0.0
+166,CBS News,"Joe Biden: ""We were told when we got to Super Tuesday, it'll be over. Well, it may be over for the other guy.""… https://t.co/PH1zCsZ1E4",Wed Mar 04 03:28:34 +0000 2020,0.7184,0.214,0.786,0.0
+167,CBS News,WATCH LIVE: Joe Biden speaks to supporters in Los Angeles after a sweep of Super Tuesday victories has put him in t… https://t.co/lFvMVlXVb1,Wed Mar 04 03:24:58 +0000 2020,0.7783,0.254,0.746,0.0
+168,CBS News,RT @CHueyBurns: I think one of the biggest stories of the night is the power of the late deciders. Some anecdotes in this thread: https://t…,Wed Mar 04 03:22:55 +0000 2020,0.0,0.0,1.0,0.0
+169,CBS News,"Dylan Farrow calls publishing of Woody Allen's upcoming memoir an ""utter betrayal"" https://t.co/azWerFNIgf https://t.co/NJPOPDvV4Z",Wed Mar 04 03:20:01 +0000 2020,-0.5859,0.0,0.774,0.226
+170,CBS News,"RT @EwallWice: Updated projections from @CBSNews:
+
+@JoeBiden wins: Arkansas, Oklahoma, Virginia, Alabama, North Carolina, Tennessee
+
+@Berni…",Wed Mar 04 03:14:54 +0000 2020,0.5719,0.198,0.802,0.0
+171,CBS News,"CBS News estimates Minnesota leans towards Joe Biden. 
+
+https://t.co/dejxP1swQq https://t.co/gdpXU25kyE",Wed Mar 04 03:13:12 +0000 2020,0.0,0.0,1.0,0.0
+172,CBS News,"CBS News projects Joe Biden wins the Arkansas primary. 
+
+https://t.co/dejxP1aVYS https://t.co/apXLeRF8WX",Wed Mar 04 03:11:02 +0000 2020,0.5719,0.27,0.73,0.0
+173,CBS News,"Bernie Sanders tells supporters in Vermont: ""Tonight, I tell you with absolute confidence, we are going to win the… https://t.co/6nNb2WMnzZ",Wed Mar 04 03:10:41 +0000 2020,0.875,0.385,0.615,0.0
+174,CBS News,"HAPPENING NOW: Bernie Sanders takes the stage to address supporters in Essex Junction, Vermont… https://t.co/PqtXeaLSPr",Wed Mar 04 03:08:14 +0000 2020,0.4404,0.172,0.828,0.0
+175,CBS News,"RACE UPDATE: CBS News estimates Massachusetts leans towards Joe Biden. 
+https://t.co/dejxP1swQq https://t.co/djSNsnlfI3",Wed Mar 04 03:08:01 +0000 2020,0.0,0.0,1.0,0.0
+176,CBS News,"CBS News projects Joe Biden wins the Oklahoma primary. 
+https://t.co/dejxP1swQq https://t.co/lYO7tttzcQ",Wed Mar 04 03:06:48 +0000 2020,0.5719,0.27,0.73,0.0
+177,CBS News,".@NorahODonnell: ""Tonight, it is coming down to a two-man race for the Democratic presidential nomination. And thos… https://t.co/ClEo4U4IdG",Wed Mar 04 03:05:07 +0000 2020,0.0,0.0,1.0,0.0
+178,CBS News,"The current CBS News delegate estimate as of 10pm. 
+
+https://t.co/dejxP1swQq https://t.co/sPP3jqssev",Wed Mar 04 03:03:32 +0000 2020,0.0,0.0,1.0,0.0
+179,CBS News,"School resource officer prays for students at flagpole every day
+https://t.co/mzD0G9gLOv https://t.co/iq1o5OX3yI",Wed Mar 04 02:59:38 +0000 2020,0.34,0.179,0.821,0.0
+180,The New York Times,Breaking News: Joe Biden won Minnesota in an upset after he was endorsed by Amy Klobuchar — his 7th victory of Supe… https://t.co/cq2yZgm1LM,Wed Mar 04 03:39:29 +0000 2020,0.4767,0.209,0.696,0.095
+181,The New York Times,"Breaking News: Bernie Sanders won Utah, his 3rd victory of Super Tuesday. He also carried the state in 2016.… https://t.co/skPAIOfaJ3",Wed Mar 04 03:35:24 +0000 2020,0.8225,0.297,0.703,0.0
+182,The New York Times,"RT @jennymedina: NEW: Sanders camp in California filed emergency injunction to keep Los Angeles County  polls open until 10 p.m. tonight, a…",Wed Mar 04 03:27:54 +0000 2020,-0.3818,0.0,0.89,0.11
+183,The New York Times,"Joe Biden is leading the Massachusetts Democratic presidential primary, with 31% of precincts reporting. Elizabeth… https://t.co/9NGxJEohz5",Wed Mar 04 03:25:25 +0000 2020,0.0,0.0,1.0,0.0
+184,The New York Times,"Ronan Farrow, the author of the book “Catch and Kill,” said on Tuesday that he would cut ties with his publisher, H… https://t.co/WCBXdnQeLV",Wed Mar 04 03:21:02 +0000 2020,-0.2732,0.0,0.913,0.087
+185,The New York Times,"Breaking News: Joe Biden won Oklahoma, a state that Bernie Sanders won in 2016, and Arkansas. Follow more live upda… https://t.co/HAGh7V7Rmb",Wed Mar 04 03:11:17 +0000 2020,0.8126,0.291,0.709,0.0
+186,The New York Times,Polls have now closed in Utah. Follow live results from all of the Super Tuesday states here. https://t.co/B63P81VSMW,Wed Mar 04 03:03:57 +0000 2020,0.5994,0.187,0.813,0.0
+187,The New York Times,"Breaking News: Bernie Sanders won Colorado, which has a large Latino population. He did well with young voters and… https://t.co/lFhDXS3Qwn",Wed Mar 04 02:46:02 +0000 2020,0.7003,0.254,0.746,0.0
+188,The New York Times,"With 16% of precincts reporting, here’s who’s leading the Minnesota Democratic presidential primary.
+
+Follow all of… https://t.co/voVKEnLSsh",Wed Mar 04 02:34:01 +0000 2020,0.0,0.0,1.0,0.0
+189,The New York Times,"RT @nytgraphics: There are at least 118 coronavirus cases in the United States. Here’s what we know about them:
+
+https://t.co/MOCwSZydRh",Wed Mar 04 02:30:11 +0000 2020,0.4215,0.128,0.872,0.0
+190,The New York Times,"Breaking News: Joe Biden won Tennessee, his 4th Super Tuesday win. He was favored by a wide margin among black vote… https://t.co/fLqotkEGbs",Wed Mar 04 02:19:17 +0000 2020,0.9349,0.455,0.545,0.0
+191,The New York Times,"RT @ByMikeBaker: Coronavirus today:
+• 9 dead
+• Past deaths tied to virus
+• 2 people in their 20s hospitalized
+• 12 first responders ill
+• A…",Wed Mar 04 02:16:04 +0000 2020,-0.7964,0.0,0.717,0.283
+192,The New York Times,"""Bernie Sanders's advisers are saying it’s still early, which it is,"" reports @melbournecoal from Vermont. ""Texas p… https://t.co/KOTTKSgTDZ",Wed Mar 04 02:10:48 +0000 2020,0.0,0.0,1.0,0.0
+193,The New York Times,"Polls have now closed in Colorado, Minnesota and Texas. Follow live results from all of the Super Tuesday states he… https://t.co/cGCEBYBzGM",Wed Mar 04 02:00:57 +0000 2020,0.5994,0.163,0.837,0.0
+194,The New York Times,"With 97% of precincts reporting, these are the latest results from Virginia's Democratic presidential primary. Joe… https://t.co/Gcdox4jKbj",Wed Mar 04 01:49:31 +0000 2020,0.0,0.0,1.0,0.0
+195,The New York Times,"Mike Bloomberg won American Samoa, his first win of Super Tuesday. It awards 6 delegates in all, and Tulsi Gabbard… https://t.co/HnMFFg1iBv",Wed Mar 04 01:36:24 +0000 2020,0.9371,0.474,0.526,0.0
+196,The New York Times,Polls have now closed in Arkansas. Follow live results from all of the Super Tuesday states here. https://t.co/6v58odlALZ,Wed Mar 04 01:33:03 +0000 2020,0.5994,0.187,0.813,0.0
+197,The New York Times,"Breaking News: Joe Biden won Alabama, his 3rd win of the night. Follow more live results from Super Tuesday.… https://t.co/EVlgAuEKSV",Wed Mar 04 01:16:43 +0000 2020,0.9081,0.401,0.599,0.0
+198,The New York Times,"Polls have now closed in Alabama, Maine, Massachusetts, Oklahoma and parts of Texas. Follow live results from all o… https://t.co/WNz3g18BYb",Wed Mar 04 01:04:31 +0000 2020,0.0,0.0,1.0,0.0
+199,The New York Times,Voting was extended in one North Carolina precinct until 8 p.m. Eastern because of a ballot shortage. Joe Biden was… https://t.co/slBk7ohz7v,Wed Mar 04 00:47:57 +0000 2020,-0.25,0.0,0.9,0.1
+200,Fox News,"Las Vegas shooting survivors were inside Thousand Oaks bar, friends say https://t.co/nW9TLTON9n",Thu Nov 08 10:30:40 +0000 2018,0.4767,0.22,0.78,0.0
+201,Fox News,"UPDATE: At least 11 wounded in shooting at California bar, gunman dead, police say https://t.co/awRowfbeRy",Thu Nov 08 10:24:08 +0000 2018,-0.6486,0.0,0.765,0.235
+202,Fox News,Authorities confirm gunman is dead @FoxFriendsFirst https://t.co/PvITYr54AX https://t.co/a2EIH1EWmA,Thu Nov 08 10:16:43 +0000 2018,-0.6486,0.0,0.619,0.381
+203,Fox News,Ventura County Sheriff’s Office Captain Garo Kuredjian: “I don’t know what the condition of any of the victims are… https://t.co/96mT27WHZv,Thu Nov 08 10:10:46 +0000 2018,-0.3182,0.0,0.892,0.108
+204,Fox News,"At least 11 shot, including sheriff’s deputy — Jonathan Hunt has the latest from the scene of the California shooti… https://t.co/sLzLyMsrn5",Thu Nov 08 10:03:44 +0000 2018,0.0,0.0,1.0,0.0
+205,Fox News,Witnesses describe chaotic scene during Thousand Oaks shooting https://t.co/qE8RqKGjz3,Thu Nov 08 09:54:50 +0000 2018,-0.4939,0.0,0.714,0.286
+206,Fox News,UPDATE: At least 11 people hurt in California shooting @FoxFriendsFirst https://t.co/PvITYr54AX https://t.co/RGWIkaxF4f,Thu Nov 08 09:46:19 +0000 2018,-0.5267,0.0,0.764,0.236
+207,Fox News,"Daniel Hoffman on California shooting: “This still an active shooter scene, and the focus is on dealing with that a… https://t.co/PiwHhe5HuX",Thu Nov 08 09:40:57 +0000 2018,0.4019,0.119,0.881,0.0
+208,Fox News,"Former Las Vegas Metro Police Lt. Randy Sutton: “Those who respond to this show incredible bravery, because they ar… https://t.co/idcJJuVRMP",Thu Nov 08 09:31:36 +0000 2018,0.4939,0.144,0.856,0.0
+209,Fox News,"Authorities deliver a briefing on a shooting in Thousand Oaks, California. (Courtesy: KCBS) https://t.co/5VGZz3rDIL",Thu Nov 08 09:25:02 +0000 2018,0.0,0.0,1.0,0.0
+210,Fox News,"Mass shooting at California bar, @HeatherChilders &amp; @JackieibanezFNC have the latest @FoxFriendsFirst… https://t.co/8c8H5LUFCu",Thu Nov 08 09:18:00 +0000 2018,0.0,0.0,1.0,0.0
+211,Fox News,Tesla names Robyn Denholm as Chairman to replace Elon Musk (via @FoxBusiness) https://t.co/SKjBXxUdOD,Thu Nov 08 09:10:00 +0000 2018,0.0,0.0,1.0,0.0
+212,Fox News,@marcthiessen: “The president today made very clear that he wants to cut deals with the Democrats. And quite frankl… https://t.co/3eA2dn4vQh,Thu Nov 08 09:01:00 +0000 2018,0.2006,0.126,0.783,0.091
+213,Fox News,".@TuckerCarlson: ""While everyone else obsessed over dossiers and FISA warrants, Sessions worried about the mission… https://t.co/LSvnOqZMsq",Thu Nov 08 09:00:00 +0000 2018,-0.4404,0.0,0.782,0.218
+214,Fox News,"Wife's dying wish was for him to clean up bloody crime scene, suspect claims: reports https://t.co/7Wxd39jDEB",Thu Nov 08 08:51:00 +0000 2018,-0.4939,0.216,0.44,0.344
+215,Fox News,DEVELOPING: Massive police response after reports of shooting at California nightclub https://t.co/awRowfsPJ6,Thu Nov 08 08:41:00 +0000 2018,0.0,0.0,1.0,0.0
+216,Fox News,".@senatemajldr Mitch McConnell said Wednesday that Democrats and Republicans will have to address health care ""on a… https://t.co/XxmktKMZ7F",Thu Nov 08 08:31:00 +0000 2018,0.4939,0.158,0.842,0.0
+217,Fox News,"Joseph diGenova on who could replace AG Sessions: ""@ChrisChristie would have the full confidence of @POTUS, which i… https://t.co/lt485btkXG",Thu Nov 08 08:21:00 +0000 2018,0.5106,0.155,0.845,0.0
+218,Fox News,Dem @GavinNewsom's wild victory party in LA features controversial rapper @common https://t.co/V9SSpxOUH7,Thu Nov 08 08:06:00 +0000 2018,0.2263,0.186,0.69,0.124
+219,Fox News,".@jasoninthehouse: “Attorney General @jeffsessions is a patriot. He was a good Republican, and I applaud him for hi… https://t.co/MRia8l8dOM",Thu Nov 08 08:01:00 +0000 2018,0.7096,0.296,0.704,0.0
+220,CNN,"New York Attorney General Letitia James, along with 18 attorneys general from across the country, sued the Trump ad… https://t.co/7fk8hKOGUv",Wed Mar 04 01:20:08 +0000 2020,0.0,0.0,1.0,0.0
+221,CNN,"Joe Biden grabbed huge early wins on Super Tuesday, winning the prized Virginia and North Carolina Democratic prima… https://t.co/6m9D5ZU7CE",Wed Mar 04 01:16:24 +0000 2020,0.9493,0.544,0.456,0.0
+222,CNN,"Members of Congress threw a surprise party for Democratic Rep. John Lewis of Georgia, celebrating the civil rights… https://t.co/8mmWf3zoA4",Wed Mar 04 01:13:35 +0000 2020,0.8176,0.362,0.638,0.0
+223,CNN,"BREAKING: Former Vice President Joe Biden will win the Alabama Democratic primary, CNN projects #CNNElection… https://t.co/WJS6so4UdU",Wed Mar 04 01:00:33 +0000 2020,0.5859,0.202,0.798,0.0
+224,CNN,"CNN commentator and former presidential candidate Andrew Yang on Michael Bloomberg: ""I think he found out that the… https://t.co/m3mlKlj0HQ",Wed Mar 04 00:57:15 +0000 2020,0.0,0.0,1.0,0.0
+225,CNN,Scientists scanned bumblebee brains and found that baby bees can feel the effects of the food contaminated by pesti… https://t.co/kN1fHDXTWM,Wed Mar 04 00:55:06 +0000 2020,0.0,0.0,1.0,0.0
+226,CNN,An administrator of the Centers for Medicare and Medicaid Services said today that any costs associated with the co… https://t.co/DU3ouUQH2E,Wed Mar 04 00:50:04 +0000 2020,0.0,0.0,1.0,0.0
+227,CNN,Top officials from the Democratic National Committee and Republican National Committee are monitoring the spread of… https://t.co/B4mwHnQEbX,Wed Mar 04 00:45:05 +0000 2020,0.2023,0.101,0.899,0.0
+228,CNN,JUST IN: Former NYC Mayor Michael Bloomberg wins American Samoa Democratic caucuses #CNNElection… https://t.co/dvzfcF0y38,Wed Mar 04 00:45:01 +0000 2020,0.5719,0.222,0.778,0.0
+229,CNN,President Trump will donate his salary from the last quarter of 2019 to the Department of Health and Human Services… https://t.co/4LmI1UNwoQ,Wed Mar 04 00:40:06 +0000 2020,0.0,0.0,1.0,0.0
+230,CNN,"BREAKING: Former Vice President Joe Biden will win the North Carolina Democratic primary, CNN projects #CNNelection… https://t.co/KEQoWtIABz",Wed Mar 04 00:30:32 +0000 2020,0.5859,0.192,0.808,0.0
+231,CNN,JPMorgan Chase is bracing for the coronavirus outbreak by asking thousands of its employees to work from home for a… https://t.co/WTuOj1uIIO,Wed Mar 04 00:23:36 +0000 2020,0.0,0.0,1.0,0.0
+232,CNN,"There are at least 122 cases of the novel coronavirus, including nine deaths, in the United States, according to th… https://t.co/NgQ84YFZ8Y",Wed Mar 04 00:20:08 +0000 2020,0.6249,0.212,0.788,0.0
+233,CNN,"Voting has been extended by half an hour in one precinct, Snakebite Township in Bertie County, because of a printer… https://t.co/f3TzK2cmZ2",Wed Mar 04 00:18:06 +0000 2020,0.0,0.0,1.0,0.0
+234,CNN,Respirator face masks in California’s emergency planning reserves are being freed up for use by health care workers https://t.co/2r5K2tDK1O,Wed Mar 04 00:15:46 +0000 2020,0.5106,0.241,0.653,0.106
+235,CNN,"Joe Biden will win Virginia’s Democratic primary, CNN projects, an early signal that his momentum is real. Bernie S… https://t.co/Do7nuHEG2d",Wed Mar 04 00:07:18 +0000 2020,0.5859,0.167,0.833,0.0
+236,CNN,"BREAKING: Former Vice President Joe Biden will win the Virginia Democratic primary, CNN projects.
+
+Sen. Bernie Sand… https://t.co/05K6MrQ1ic",Wed Mar 04 00:00:37 +0000 2020,0.5859,0.183,0.817,0.0
+237,CNN,The moment is finally here. NASA is accepting applications for aspiring astronauts. https://t.co/wopXJOLPgz,Wed Mar 04 00:00:16 +0000 2020,0.3818,0.178,0.822,0.0
+238,CNN,"Iran has announced that it will temporarily release more than 54,000 prisoners in an attempt to prevent the spread… https://t.co/FtZsMI1tEb",Tue Mar 03 23:50:10 +0000 2020,-0.5367,0.049,0.794,0.157
+239,CNN,"While public health officials and medical experts raised the alarm about the coronavirus outbreak, a timeline of ev… https://t.co/weqhNrLwG7",Tue Mar 03 23:50:05 +0000 2020,-0.34,0.0,0.876,0.124
+240,BBC News (World),"Who are the five remaining Democratic candidates?
+
+✔️Former VP Joe Biden
+✔️Sen Bernie Sanders
+✔️Sen Elizabeth Warre… https://t.co/BDhgtimA6r",Tue Mar 03 23:30:59 +0000 2020,0.0,0.0,1.0,0.0
+241,BBC News (World),"Voters in 14 states across the US are voting today and candidates are vying for 1,357 delegates  
+
+Follow the BBC N… https://t.co/AoscbFd25b",Tue Mar 03 23:28:31 +0000 2020,0.0,0.0,1.0,0.0
+242,BBC News (World),"It’s #SuperTuesday, the biggest day of the US election so far  
+
+Five Democratic candidates remain on the ballot
+
+T… https://t.co/rpEBoiX8TU",Tue Mar 03 23:22:31 +0000 2020,0.0,0.0,1.0,0.0
+243,BBC News (World),"RT @BBCRosAtkins: So many people have been asking the difference between the #coronavirus &amp; seasonal flu, we made this. A 2-minute video th…",Tue Mar 03 22:21:36 +0000 2020,-0.3818,0.0,0.89,0.11
+244,BBC News (World),RT @BBCBusiness: Coronavirus: World Bank pledges $12bn in emergency aid https://t.co/tofuZpE4vG,Tue Mar 03 21:13:16 +0000 2020,-0.3818,0.0,0.794,0.206
+245,BBC News (World),IAEA 'asks Iran to explain possible nuclear activities at three sites' https://t.co/PxbnmTIHBz,Tue Mar 03 21:00:01 +0000 2020,0.0,0.0,1.0,0.0
+246,BBC News (World),At least 18 people dead and more than 40 missing after torrential rain and landslides hit Brazilian states of São P… https://t.co/1uSW4wHwlq,Tue Mar 03 20:31:55 +0000 2020,-0.7759,0.0,0.747,0.253
+247,BBC News (World),Afghan conflict: Clashes shatter partial truce after US deal https://t.co/4jPzVns4sf,Tue Mar 03 19:36:13 +0000 2020,-0.3182,0.0,0.796,0.204
+248,BBC News (World),"Nile Dam: Ethiopia calls US view ""totally unacceptable"" https://t.co/MxXDB6xkPK",Tue Mar 03 18:29:57 +0000 2020,-0.5095,0.0,0.708,0.292
+249,BBC News (World),Spain approves US extradition request for former Venezuelan intelligence chief General Hugo Carvajal https://t.co/Ejtr0Kd0yy,Tue Mar 03 17:17:16 +0000 2020,0.7003,0.326,0.674,0.0
+250,BBC News (World),RT @bbcworldservice: It's been another day full of #coronavirus news. Here's the main updates of the day in just 60 (ish) seconds ⏰ https:/…,Tue Mar 03 17:09:56 +0000 2020,-0.34,0.0,0.909,0.091
+251,BBC News (World),Disney+ UK hints at Simpsons deal https://t.co/x5t461j3ee,Tue Mar 03 16:46:18 +0000 2020,0.0,0.0,1.0,0.0
+252,BBC News (World),"The 'Wuhan shake' or the elbow bump?
+
+How people around the world are avoiding shaking hands because of coronavirus… https://t.co/j3bSoNWrry",Tue Mar 03 16:29:29 +0000 2020,-0.5859,0.0,0.746,0.254
+253,BBC News (World),"Iran temporarily releases more than 54,000 prisoners in an effort to combat coronavirus in crowded jails https://t.co/bEWbjYMIfS",Tue Mar 03 16:07:29 +0000 2020,-0.7152,0.0,0.716,0.284
+254,BBC News (World),China orders travellers from countries with severe coronavirus outbreaks to be quarantined https://t.co/D8vM6DB4dN,Tue Mar 03 16:05:23 +0000 2020,-0.3818,0.0,0.822,0.178
+255,BBC News (World),"RT @BBCNews: Duke and Duchess of Cambridge lay wreath for those who fought for Irish independence, in first official visit to the Republic…",Tue Mar 03 16:01:33 +0000 2020,-0.3182,0.0,0.905,0.095
+256,BBC News (World),RT @BBCBusiness: US Federal Reserve slashes rates amid coronavirus impact https://t.co/xDaAntZ6jZ,Tue Mar 03 15:35:01 +0000 2020,-0.2023,0.0,0.847,0.153
+257,BBC News (World),"""The IOC remains fully committed to the success of the Olympic Games Tokyo 2020""
+
+Thomas Bach, President of the Int… https://t.co/4eBQljEPoo",Tue Mar 03 15:01:52 +0000 2020,0.7264,0.243,0.757,0.0
+258,BBC News (World),Japan's Olympic minister says Tokyo 2020 Games could be postponed from the summer until later in the year amid coro… https://t.co/VmglZ2jdfP,Tue Mar 03 14:40:58 +0000 2020,-0.2023,0.0,0.917,0.083
+259,BBC News (World),Two men in Iran who defied coronavirus health warnings could be jailed and flogged https://t.co/4WVLdlz5qv,Tue Mar 03 14:32:40 +0000 2020,-0.6597,0.0,0.707,0.293
+260,CBS News,RT @kabir_here: Another complication when it comes to Texas delegates is that Bloomberg is in the 15% neighborhood in more than one distric…,Wed Mar 04 02:57:18 +0000 2020,0.0,0.0,1.0,0.0
+261,The New York Times,"Breaking News: Joe Biden clinched North Carolina, earning a 2nd win early in the night. The state awards the 3rd mo… https://t.co/0enHidvAJf",Wed Mar 04 00:39:48 +0000 2020,0.7783,0.264,0.736,0.0
+262,The New York Times,Polls have now closed in North Carolina. Follow live results as they're reported from there and all of the Super Tu… https://t.co/E6f1Yul0G8,Wed Mar 04 00:30:06 +0000 2020,0.5994,0.157,0.843,0.0
+263,The New York Times,"As we wait for more polls to close in Super Tuesday states, here's a reminder of what's at stake in the Democratic… https://t.co/Sb5uPKLFfG",Wed Mar 04 00:22:23 +0000 2020,0.5994,0.157,0.843,0.0
+264,The New York Times,Our reporters are providing real-time updates for Super Tuesday. Here's the latest from @melbournecoal and… https://t.co/towy4F6Rhm,Wed Mar 04 00:16:51 +0000 2020,0.5994,0.206,0.794,0.0
+265,The New York Times,Breaking News: Joe Biden won Virginia and Bernie Sanders won Vermont. Join us for results from 12 more Super Tuesda… https://t.co/ANHF9ngk9f,Wed Mar 04 00:07:05 +0000 2020,0.9299,0.448,0.552,0.0
+266,The New York Times,"Polls have now closed in Vermont, Virginia and parts of Alabama. We'll have live results from the Democratic presid… https://t.co/MCA0c2cYVB",Wed Mar 04 00:00:12 +0000 2020,0.0,0.0,1.0,0.0
+267,The New York Times,"Breaking News: Iran appears to have stockpiled enough uranium for one nuclear weapon, but is far from making one. T… https://t.co/nnHwG7gSId",Tue Mar 03 23:58:03 +0000 2020,-0.1531,0.0,0.926,0.074
+268,The New York Times,"The day after Joe Biden won the South Carolina primary, his spending on Facebook exploded: He poured more than $246… https://t.co/hwqXer7j71",Tue Mar 03 23:55:06 +0000 2020,0.5719,0.156,0.844,0.0
+269,The New York Times,"The first Super Tuesday polls are set to close at 7 p.m. Eastern.
+
+Find live results as we get them and updates fro… https://t.co/dKhaBJ5wzR",Tue Mar 03 23:50:06 +0000 2020,0.5994,0.151,0.849,0.0
+270,The New York Times,"“I’ve never felt this unconvinced."" As Democrats headed to the polls for Super Tuesday, some weren’t sure they had… https://t.co/dwJnKTcIrz",Tue Mar 03 23:40:06 +0000 2020,0.7351,0.256,0.744,0.0
+271,The New York Times,"President Trump’s re-election campaign sued The Washington Post for libel on Tuesday, citing 2 opinion articles fro… https://t.co/Q3XoD2mb0Q",Tue Mar 03 23:30:07 +0000 2020,0.0,0.0,1.0,0.0
+272,The New York Times,Officials have vowed to disinfect equipment in New York City's subway — from train cars to MetroCard machines — eve… https://t.co/u9PdhycVa4,Tue Mar 03 23:20:06 +0000 2020,0.0,0.0,1.0,0.0
+273,The New York Times,"In Opinion
+
+KJ Dell’Antonia writes about being held in a Chinese quarantine facility for 10 days after being expose… https://t.co/lHbJ1nDaii",Tue Mar 03 23:00:04 +0000 2020,0.0,0.0,1.0,0.0
+274,The New York Times,Find live results and updates from our reporters on the campaign trail before polls start to close on the East Coas… https://t.co/AgCaLSyRZP,Tue Mar 03 22:39:13 +0000 2020,0.0,0.0,1.0,0.0
+275,The New York Times,"Our reporters are spread out across the country covering the latest from Super Tuesday. Find them all, and follow a… https://t.co/QVuwGQQNWQ",Tue Mar 03 22:37:56 +0000 2020,0.5994,0.163,0.837,0.0
+276,The New York Times,"Ultimately, the allocation of the 1,357 delegates at stake is what really matters on Tuesday. But candidates will h… https://t.co/spw7xKEEZE",Tue Mar 03 22:36:31 +0000 2020,0.0507,0.059,0.941,0.0
+277,The New York Times,Super Tuesday will tell us whether Mike Bloomberg's unprecedented campaign spending will pay off. He vastly outspen… https://t.co/M9b0WsDtr8,Tue Mar 03 22:35:37 +0000 2020,0.5423,0.183,0.751,0.066
+278,The New York Times,"It's also a crucial test for Elizabeth Warren. With Amy Klobuchar and Pete Buttigieg ending their campaigns, she's… https://t.co/kX0vLsJqMc",Tue Mar 03 22:34:40 +0000 2020,0.0,0.0,1.0,0.0
+279,The New York Times,"With so many states voting, the vast diversity of the U.S. will be on full display after contests earlier this year… https://t.co/52yapeNfd7",Tue Mar 03 22:32:08 +0000 2020,0.0,0.0,1.0,0.0
+280,Fox News,"Devotees lit earthen lamps in Ayodhya, India as part of Diwali celebrations, also known as a festival of lights, on… https://t.co/uWGZnrkvqD",Thu Nov 08 07:51:00 +0000 2018,0.5719,0.207,0.793,0.0
+281,Fox News,".@TGowdySC on Jeff Sessions resigning: ""It was going to happen...He's been a proverbial dead man walking for severa… https://t.co/ojKL4KMFTz",Thu Nov 08 07:41:00 +0000 2018,-0.7351,0.0,0.721,0.279
+282,Fox News,Mob chants threats outside @TuckerCarlson’s DC home https://t.co/IJE8m5gjWi,Thu Nov 08 07:31:00 +0000 2018,-0.4215,0.0,0.714,0.286
+283,Fox News,".@TuckerCarlson: ""Supporting marriage and children is the best, maybe the only way, for Republicans or any of us to… https://t.co/fqPwC8XTaY",Thu Nov 08 07:21:00 +0000 2018,0.7964,0.283,0.717,0.0
+284,Fox News,.@KennedyNation: Dems in 2020 better without Nancy https://t.co/54vTCiffG4,Thu Nov 08 07:16:00 +0000 2018,0.4404,0.293,0.707,0.0
+285,Fox News,Battleground-state Dems who opposed Kavanaugh all defeated https://t.co/guqMSVjd74,Thu Nov 08 07:11:00 +0000 2018,-0.4767,0.0,0.693,0.307
+286,Fox News,".@Jim_Jordan on his run for House GOP leader: “We have to match [@POTUS’s] intensity, that’s what I want to do. If… https://t.co/2VOW1ykCsI",Thu Nov 08 07:01:00 +0000 2018,0.0772,0.061,0.939,0.0
+287,Fox News,.@senatemajldr: Dem Votes Against Kavanaugh Were a 'Godsend' to GOP in Midterms https://t.co/ietr8sP4EQ,Thu Nov 08 06:51:00 +0000 2018,0.0,0.0,1.0,0.0
+288,Fox News,.@marcthiessen: “There’s lots of things that Democrats could take a stand on that they find inherently unacceptable… https://t.co/c7UFDzFd60,Thu Nov 08 06:41:00 +0000 2018,0.0,0.0,1.0,0.0
+289,Fox News,".@DarrellIssa on the Mueller probe: ""Two years is a long time to look for a crime you can't prove.""… https://t.co/plX9kxpSXy",Thu Nov 08 06:36:00 +0000 2018,-0.5423,0.0,0.829,0.171
+290,Fox News,"Second teen dies of gunshot wound after Oklahoma mom's rampage, authorities say https://t.co/VUQxsa3mq3",Thu Nov 08 06:31:00 +0000 2018,0.0,0.0,1.0,0.0
+291,Fox News,.@marcthiessen: “The president today made very clear that he wants to cut deals with the Democrats. And quite frank… https://t.co/MGVdJQVfUt,Thu Nov 08 06:21:00 +0000 2018,0.2006,0.126,0.783,0.091
+292,Fox News,"Florida Highway Patrol cruiser hits 142 mph in pursuit, catches on fire https://t.co/GqWKI45AAm",Thu Nov 08 06:11:00 +0000 2018,-0.34,0.0,0.833,0.167
+293,Fox News,Democratic strategist @LeslieMarshall: “What we need is not a wall — and not a wall that we can’t afford — but comp… https://t.co/TzRWVJQeVv,Thu Nov 08 06:01:00 +0000 2018,0.0,0.0,1.0,0.0
+294,Fox News,"Sex offender gets 22 years after missing boy, 14, found in his room at halfway house, authorities say https://t.co/sDd0VQzob4",Thu Nov 08 05:51:00 +0000 2018,-0.5719,0.0,0.783,0.217
+295,Fox News,".@POTUS touts Senate gains, @LelandVittert breaks down the results @foxnewsnight https://t.co/VMzif8sgHH",Thu Nov 08 05:41:00 +0000 2018,0.3182,0.192,0.72,0.088
+296,Fox News,Former Kavanaugh colleague among group being considered to replace Sessions as AG: reports https://t.co/HxAlDZx2Mg,Thu Nov 08 05:31:00 +0000 2018,0.0,0.0,1.0,0.0
+297,Fox News,"Too close to call: Meticulous vote count transpiring in Arizona Senate race, @aacuna1 reports @foxnewsnight https://t.co/DV6EX4Ogxe",Thu Nov 08 05:26:00 +0000 2018,0.0,0.0,1.0,0.0
+298,Fox News,"Former SEAL Mocked by 'SNL' Wins TX House Seat, Calls for More Vets in Congress https://t.co/T0PAhopphH… https://t.co/qhS5BVOE2U",Thu Nov 08 05:21:01 +0000 2018,0.6841,0.298,0.603,0.099
+299,Fox News,South Carolina voter told to remove 'Trump' shirt in order to vote: report https://t.co/xWY2EdSpDF,Thu Nov 08 05:11:00 +0000 2018,0.0,0.0,1.0,0.0
+300,CNN,"Super Tuesday voting hours were extended in Nashville, Tennessee, following a devastating tornado that hit the city… https://t.co/WVw5LbC0Pv",Tue Mar 03 23:49:04 +0000 2020,-0.1027,0.168,0.647,0.185
+301,CNN,"These are the times polls close in Super Tuesday primary states #CNNelection 
+
+Follow updates:… https://t.co/v603Cc9jev",Tue Mar 03 23:45:06 +0000 2020,0.5994,0.218,0.782,0.0
+302,CNN,"Former NYC Mayor Michael Bloomberg has spent $560 million on advertising, more than twice as much as any other cand… https://t.co/kl8OXjp455",Tue Mar 03 23:45:04 +0000 2020,0.0,0.0,1.0,0.0
+303,CNN,"The San Diego Zoo crowdsourced the name for their new baby hippo, and the winner means ""beautiful one"" in Zulu… https://t.co/RBfg7v73Hh",Tue Mar 03 23:40:07 +0000 2020,0.8271,0.288,0.712,0.0
+304,CNN,"Kanoa Igarashi, a professional surfer born and raised in the US but who will represent Japan at the upcoming 2020 O… https://t.co/5FjiaoTUfg",Tue Mar 03 23:35:04 +0000 2020,0.0,0.0,1.0,0.0
+305,CNN,A Chinese student in London has been assaulted in what he calls a racist attack linked to the coronavirus. The atta… https://t.co/3LD33pPvZx,Tue Mar 03 23:30:03 +0000 2020,-0.8885,0.0,0.618,0.382
+306,CNN,"A county judge has ruled that Super Tuesday voting in Davidson County, which includes Nashville, will stay open bey… https://t.co/0KjPFLiWgu",Tue Mar 03 23:28:06 +0000 2020,0.5994,0.178,0.822,0.0
+307,CNN,The first presumptive case of the novel coronavirus in North Carolina is linked to a Seattle-area nursing home faci… https://t.co/NXOkiGZbEn,Tue Mar 03 23:25:08 +0000 2020,0.3182,0.113,0.887,0.0
+308,CNN,Twitter is asking all of its employees worldwide to stay away from their offices until further notice to avoid spre… https://t.co/VlX52dSxDg,Tue Mar 03 23:20:05 +0000 2020,-0.296,0.0,0.901,0.099
+309,CNN,"United Airlines has announced new ""flexible booking"" amid the coronavirus outbreak. The airline says it will not ch… https://t.co/PfiRwAmgTO",Tue Mar 03 23:15:06 +0000 2020,0.5719,0.217,0.783,0.0
+310,CNN,"Police found more than 20,000 rounds of handgun and rifle ammunition, high capacity magazines, five tactical style… https://t.co/KmHWibL7iu",Tue Mar 03 23:10:05 +0000 2020,0.0,0.0,1.0,0.0
+311,CNN,The US Navy's 6th Fleet is instituting a 14-day self-quarantine between port visits by US Navy ships in Europe over… https://t.co/RWTGxOLqSg,Tue Mar 03 23:07:13 +0000 2020,0.0,0.0,1.0,0.0
+312,CNN,"A Wuhan doctor from the same department as whistleblower doctor Li Wenliang died from coronavirus on Tuesday, accor… https://t.co/6AfjQg5U3W",Tue Mar 03 23:00:14 +0000 2020,-0.5574,0.0,0.825,0.175
+313,CNN,"The Tokyo 2020 Olympics ""could be postponed until later this year,"" a Japanese official says https://t.co/EtJzuanoI1",Tue Mar 03 22:50:06 +0000 2020,-0.2023,0.0,0.886,0.114
+314,CNN,"8% of Iran's parliament has tested positive for coronavirus, the Deputy Parliament Speaker says https://t.co/TmibuGlrZ6",Tue Mar 03 22:40:04 +0000 2020,0.5574,0.205,0.795,0.0
+315,CNN,Watch the total campaign contributions for each 2020 presidential candidate rise and fall over time… https://t.co/BTMSJLFLOU,Tue Mar 03 22:35:08 +0000 2020,0.0,0.0,1.0,0.0
+316,CNN,"The Australian state of New South Wales is officially free from bushfires for the first time in more than 240 days,… https://t.co/mn5IyHSxsv",Tue Mar 03 22:30:09 +0000 2020,0.5106,0.136,0.864,0.0
+317,CNN,"As COVID-19 spreads, the lack of universal health care in the US will prove catastrophic, writes one critical care… https://t.co/ymHIyT1aQp",Tue Mar 03 22:20:03 +0000 2020,-0.5574,0.119,0.593,0.289
+318,CNN,What's so 'super' about Super Tuesday? @CillizzaCNN explains. https://t.co/4yQ2YUAY18 https://t.co/kmXsXlvsrY,Tue Mar 03 22:15:06 +0000 2020,0.6326,0.316,0.684,0.0
+319,CNN,Apple will pay up to half a billion dollars to settle a class action lawsuit accusing it of slowing down older iPho… https://t.co/YGoVFg127h,Tue Mar 03 22:10:05 +0000 2020,-0.4588,0.0,0.783,0.217
+320,BBC News (World),"RT @bbcweather: Tornadoes sweep across US states of Missouri, Kentucky and Tennessee with at least 7 fatalities reported. https://t.co/XIGx…",Tue Mar 03 14:23:37 +0000 2020,-0.5994,0.0,0.813,0.187
+321,BBC News (World),"""I got my food though a secure hatch, my medication, my change of clothing""
+
+Julie from Singapore talks candidly ab… https://t.co/RHNijXG5G4",Tue Mar 03 14:19:44 +0000 2020,0.34,0.112,0.888,0.0
+322,BBC News (World),"Trump calls on Colombia to resume aerial spraying of coca crops, a practice that was suspended in 2015 after a cour… https://t.co/rZ7jONCCl2",Tue Mar 03 13:59:04 +0000 2020,-0.4767,0.0,0.86,0.14
+323,BBC News (World),"RT @BBCSport: Doping postal deliveries, cool boxes hidden under beds and a culture of suspicion and cover-up. 
+
+This is the story of how st…",Tue Mar 03 13:55:28 +0000 2020,-0.0772,0.089,0.811,0.1
+324,BBC News (World),Spain backs proposed change to controversial rape laws that focuses on the importance of sexual consent https://t.co/34DbF4AdSM,Tue Mar 03 13:48:27 +0000 2020,-0.5106,0.183,0.498,0.32
+325,BBC News (World),"Deadly tornadoes kill seven in Nashville, Tennessee https://t.co/VBfen4ZMCI",Tue Mar 03 12:59:33 +0000 2020,-0.6908,0.0,0.598,0.402
+326,BBC News (World),"RT @BBCNews: Bond fans ask for  #NoTimeToDie delay due to coronavirus 
+
+https://t.co/JrtLDWN56E",Tue Mar 03 12:47:36 +0000 2020,-0.3182,0.0,0.827,0.173
+327,BBC News (World),EU leaders head to Greece as migrant stand-off with Turkey continues https://t.co/Lt1Sux0lDX,Tue Mar 03 12:34:11 +0000 2020,0.0,0.0,1.0,0.0
+328,BBC News (World),Australian Associated Press: News agency to close after 85 years https://t.co/iUY6m4trO7,Tue Mar 03 12:13:36 +0000 2020,0.0,0.0,1.0,0.0
+329,BBC News (World),"RT @BBCNews: ""I'm a virologist so I know what are on people's hands""
+
+Dr Lindsay Broadbent says coronavirus could be passed by people shaki…",Tue Mar 03 11:53:11 +0000 2020,0.0,0.0,1.0,0.0
+330,BBC News (World),Japan's Olympic minister says Tokyo 2020 Games could be postponed amid fears over coronavirus https://t.co/HBeBUl7GZB,Tue Mar 03 11:37:51 +0000 2020,-0.5574,0.0,0.739,0.261
+331,BBC News (World),Mexican YouTuber who kidnapped a woman in 2018 sentenced to 50 years in prison https://t.co/1MmiI3pYPb,Tue Mar 03 11:34:18 +0000 2020,-0.5267,0.0,0.732,0.268
+332,BBC News (World),Russia's President Vladimir Putin wants marriage to be defined as the union of a man and woman in a revised constit… https://t.co/nUs13OTSmB,Tue Mar 03 11:29:09 +0000 2020,0.0,0.0,1.0,0.0
+333,BBC News (World),Kobe Bryant: LA sheriff says deputies took graphic crash-scene photos https://t.co/8rp9np10nf,Tue Mar 03 09:14:33 +0000 2020,0.0,0.0,1.0,0.0
+334,BBC News (World),India PM Narendra Modi 'scares' millions of social followers https://t.co/vCEyr6suKV,Tue Mar 03 08:51:52 +0000 2020,0.0,0.0,1.0,0.0
+335,BBC News (World),Coronavirus: China orders travellers quarantined amid outbreak https://t.co/qNiUxkq0TH,Tue Mar 03 08:17:17 +0000 2020,0.0,0.0,1.0,0.0
+336,BBC News (World),RT @SallyBundockBBC: Are free meditation apps the answer for stressed staff? We discuss this trend. What do you do when you are stressed at…,Tue Mar 03 07:39:57 +0000 2020,-0.128,0.113,0.722,0.165
+337,BBC News (World),William and Kate to begin three-day Ireland visit https://t.co/hKrIpxKDmN,Tue Mar 03 07:24:52 +0000 2020,0.0,0.0,1.0,0.0
+338,BBC News (World),US election 2020: Joe Biden boosted on Super Tuesday https://t.co/tjPSEMOSI4,Tue Mar 03 05:06:32 +0000 2020,0.7506,0.444,0.556,0.0
+339,BBC News (World),RT @SallyBundockBBC: The consumer group @WhichUK found booking a hotel room was cheaper when called directly rather than using travel websi…,Tue Mar 03 03:51:02 +0000 2020,0.0,0.0,1.0,0.0
+340,The New York Times,About one-third of all delegates — which will help decide the Democratic presidential nominee — are up for grabs ac… https://t.co/XqSwqROmVp,Tue Mar 03 22:31:03 +0000 2020,0.4019,0.13,0.87,0.0
+341,The New York Times,Polls will start to close at 7 p.m. Eastern for #SuperTuesday — perhaps the most important day on the U.S. presiden… https://t.co/DV5Cr6gbpr,Tue Mar 03 22:30:07 +0000 2020,0.2716,0.099,0.901,0.0
+342,The New York Times,"""I thought, I can be part of something that can cure or arrest this illness,"" one man who took part in a drug study… https://t.co/bTSel8EvCn",Tue Mar 03 22:20:03 +0000 2020,-0.34,0.0,0.902,0.098
+343,The New York Times,"Coronavirus map: Tracking the spread of the outbreak
+https://t.co/af1ILhbqUe",Tue Mar 03 22:10:04 +0000 2020,0.0,0.0,1.0,0.0
+344,The New York Times,"As the world wrestles with the spread of the coronavirus, the epidemic in Iran is a lesson in what happens when a s… https://t.co/3UF8NmAqTW",Tue Mar 03 21:50:04 +0000 2020,0.0,0.0,1.0,0.0
+345,The New York Times,"RT @nytclimate: February “was not just merely a below average month,” said Daniel Swain, a UCLA climate researcher. “It was, in a lot of pl…",Tue Mar 03 21:42:11 +0000 2020,0.0,0.0,1.0,0.0
+346,The New York Times,"In Miami on Tuesday, Mike Bloomberg had to be corrected by a reporter who reminded him that Elizabeth Warren, and n… https://t.co/ijebDCStph",Tue Mar 03 21:30:10 +0000 2020,0.0,0.0,1.0,0.0
+347,The New York Times,A college recruiter from Oklahoma Christian University is no longer working for the school after he told a group of… https://t.co/SMYlhxah78,Tue Mar 03 21:20:02 +0000 2020,-0.296,0.0,0.891,0.109
+348,The New York Times,"Breaking News: U.S. stocks and bond yields tumbled on Tuesday, suggesting investors think the Federal Reserve's int… https://t.co/WVCJdoEVVa",Tue Mar 03 21:16:40 +0000 2020,0.0,0.0,1.0,0.0
+349,The New York Times,The confusion over coronavirus tests typified the struggle by the Trump administration to project confidence and pr… https://t.co/y548HJPg88,Tue Mar 03 21:00:05 +0000 2020,-0.0516,0.145,0.658,0.197
+350,The New York Times,"Richard Carranza, the leader of New York City’s schools, has drawn ire from prominent white conservatives across th… https://t.co/3KzspJI2fm",Tue Mar 03 20:40:06 +0000 2020,0.3182,0.113,0.887,0.0
+351,The New York Times,Mike Bloomberg's $410 million campaign strategy — a bet that blanketing the U.S. with one TV ad per every 15 second… https://t.co/jeE5MlNT9R,Tue Mar 03 20:20:04 +0000 2020,0.0,0.0,1.0,0.0
+352,The New York Times,The coronavirus outbreak has hobbled Chinese factories that supply India’s vast drug industry with ingredients for… https://t.co/Ryz7kZuHoX,Tue Mar 03 20:00:10 +0000 2020,0.0,0.0,1.0,0.0
+353,The New York Times,Here are some tips for cleaning your area of a plane and keeping healthy on a flight https://t.co/3tKkH0UCDc,Tue Mar 03 19:40:07 +0000 2020,0.4019,0.153,0.847,0.0
+354,The New York Times,President Trump said he'd visit the Nashville area on Friday. At least 22 people have died there after a powerful s… https://t.co/apZd6mgnem,Tue Mar 03 19:30:02 +0000 2020,-0.2023,0.11,0.748,0.142
+355,The New York Times,A key economic benchmark signals deep investor concern about the economy: The 10-year Treasury bond yield tumbled b… https://t.co/bqfXXONtmp,Tue Mar 03 19:25:18 +0000 2020,0.2023,0.096,0.904,0.0
+356,The New York Times,"Here’s a list of frequently asked questions about the coronavirus outbreak and its symptoms
+https://t.co/OOwe27eid6",Tue Mar 03 19:20:05 +0000 2020,0.0,0.0,1.0,0.0
+357,The New York Times,"For this orecchiette, swap broccoli rabe for rich fennel to add a distinctive flavor profile
+https://t.co/lAuldlq2nH",Tue Mar 03 19:10:52 +0000 2020,0.5574,0.205,0.795,0.0
+358,The New York Times,RT @elizashapiro: New: How the fight over Stuyvesant + the specialized schools has made chancellor Richard Carranza a villain for some Asia…,Tue Mar 03 19:06:55 +0000 2020,-0.7351,0.0,0.744,0.256
+359,The New York Times,Vladimir Putin has proposed a constitutional amendment banning gay marriage in Russia. Political analysts say it's… https://t.co/kzJVzSBG9y,Tue Mar 03 19:00:08 +0000 2020,0.0,0.0,1.0,0.0
+360,Fox News,.@POTUS: “Hopefully we can all work together next year to continue delivering for the American people.”… https://t.co/FdLczQZN4g,Thu Nov 08 05:01:00 +0000 2018,0.0,0.0,1.0,0.0
+361,Fox News,Former US Attorney Harry Litman on Whitaker &amp; Mueller probe: “I think most people think it’s unlikely that he would… https://t.co/6W1eHbZ7zZ,Thu Nov 08 04:55:00 +0000 2018,0.0,0.0,1.0,0.0
+362,Fox News,Pete Davidson's 'SNL' castmate Kenan Thompson talks Dan Crenshaw joke: 'They are figuring out a way to right that w… https://t.co/MlIJF907FK,Thu Nov 08 04:50:00 +0000 2018,0.296,0.104,0.896,0.0
+363,Fox News,".@jasoninthehouse: “Attorney General @jeffsessions is a patriot. He was a good Republican, and I applaud him for hi… https://t.co/lqmOqmHcJZ",Thu Nov 08 04:45:00 +0000 2018,0.7096,0.296,0.704,0.0
+364,Fox News,"Tom Dupree on Acting Attorney General Matthew Whitaker: “Calls for him to recuse from Russia, I think, are meritles… https://t.co/74TWeQngjg",Thu Nov 08 04:35:00 +0000 2018,0.0,0.0,1.0,0.0
+365,Fox News,"Cabinet shakeup expected after @jeffsessions pushed out, @edhenry reports @foxnewsnight https://t.co/6UTwyCpZRV https://t.co/MY7kH6s4T7",Thu Nov 08 04:25:00 +0000 2018,-0.1531,0.0,0.873,0.127
+366,Fox News,"New reactions to Sessions resignation, Catherine Herridge has the story @foxnewsnight https://t.co/6UTwyCHBgv https://t.co/FaiATyMSgC",Thu Nov 08 04:14:15 +0000 2018,-0.296,0.0,0.845,0.155
+367,Fox News,MLB star @Bharper3407 rejects $300M offer from Nationals: Reports (via @FoxBusiness) https://t.co/Bgfoyi7fNH,Thu Nov 08 04:05:00 +0000 2018,-0.4939,0.0,0.775,0.225
+368,Fox News,Doug Schoen: Trump shouldn’t have fired Jeff Sessions – here’s why https://t.co/0ITTpZyqyx,Thu Nov 08 03:55:00 +0000 2018,-0.5574,0.0,0.735,0.265
+369,Fox News,"Joseph diGenova on who could replace AG Sessions: ""@ChrisChristie would have the full confidence of @POTUS, which i… https://t.co/3eoxyIurd3",Thu Nov 08 03:52:26 +0000 2018,0.5106,0.155,0.845,0.0
+370,Fox News,‘Brady Bunch’ cast to take part in TV home’s renovation: report https://t.co/rebtV4qkql,Thu Nov 08 03:48:00 +0000 2018,0.0,0.0,1.0,0.0
+371,Fox News,".@TuckerCarlson: Dems' Election Message Was All 'Trump', No Substance https://t.co/CscvHQkfAX",Thu Nov 08 03:42:00 +0000 2018,-0.296,0.0,0.804,0.196
+372,Fox News,"11-year-old in North Carolina charged with putting needles in Halloween candy, police say https://t.co/Dm3F07wpIt",Thu Nov 08 03:35:00 +0000 2018,-0.2023,0.0,0.878,0.122
+373,Fox News,Rhino rescue? Scientists may hold key to saving northern white rhinoceros from extinction  https://t.co/VUifTtCbTk,Thu Nov 08 03:29:00 +0000 2018,0.5106,0.202,0.798,0.0
+374,Fox News,"RT @FoxBusiness: Rick Scott: ""Socialism will not happen in our nation, and it's not going to happen under my watch."" https://t.co/CLNOuNnGNo",Thu Nov 08 03:23:02 +0000 2018,0.0,0.0,1.0,0.0
+375,Fox News,"Democrat Colin Allred, who unseated Rep. Pete Sessions, won't say if he'll back Pelosi https://t.co/mNox8bKgiA",Thu Nov 08 03:23:00 +0000 2018,0.0,0.0,1.0,0.0
+376,Fox News,Surveillance video shows Michigan woman reportedly reversing car into store https://t.co/tJr2cUsZ8a,Thu Nov 08 03:16:01 +0000 2018,0.0,0.0,1.0,0.0
+377,Fox News,".@senatemajldr Mitch McConnell said Wednesday that Democrats and Republicans will have to address health care ""on a… https://t.co/xF54bEhvOA",Thu Nov 08 03:11:00 +0000 2018,0.4939,0.158,0.842,0.0
+378,Fox News,Woman finds her diamond before proposal and 'ring shames' herself https://t.co/uoLHUxHeBD,Thu Nov 08 03:04:00 +0000 2018,-0.0772,0.17,0.638,0.191
+379,Fox News,McDonald's customers’ $5M lawsuit over unwanted Quarter Pounder cheese dismissed by judge https://t.co/yBEvL4cAFK,Thu Nov 08 03:01:47 +0000 2018,-0.4215,0.0,0.743,0.257
+380,CNN,"The US is on the brink of a larger coronavirus outbreak that may reflect uncontained spread in other countries, acc… https://t.co/9qW3U0sH1U",Tue Mar 03 22:00:06 +0000 2020,0.0,0.0,1.0,0.0
+381,CNN,"While Tornado Alley in the Great Plains still leads in the number of tornadoes, more are appearing in the South. An… https://t.co/cJVxg6duZ3",Tue Mar 03 21:50:04 +0000 2020,0.6597,0.213,0.787,0.0
+382,CNN,"On April 29, an asteroid estimated to be between 1.1 and 2.5 miles wide will fly by Earth. But it's not expected to… https://t.co/9WOsMYbrly",Tue Mar 03 21:40:06 +0000 2020,0.0,0.0,1.0,0.0
+383,CNN,A Chinese student in London has been assaulted in what he calls a racist attack linked to the coronavirus. The atta… https://t.co/s7dX9FDqvF,Tue Mar 03 21:30:05 +0000 2020,-0.8885,0.0,0.618,0.382
+384,CNN,The bride was unamused https://t.co/3jwpCzApGO,Tue Mar 03 21:20:03 +0000 2020,0.0,0.0,1.0,0.0
+385,CNN,"Trump and Mullah Abdul Ghani Baradar, the Taliban's chief negotiator and one of its founding members, have spoken o… https://t.co/JizprpXYBR",Tue Mar 03 21:10:03 +0000 2020,0.0,0.0,1.0,0.0
+386,CNN,"Here's what you might have missed on CNN:
+▪︎ Mickey Mouse finally has his own Disney World ride
+▪︎ Large asteroid t… https://t.co/sFuYBrzZ2Y",Tue Mar 03 21:00:07 +0000 2020,-0.296,0.0,0.909,0.091
+387,CNN,"Cotton candy exoplanets sound like something from a futuristic version of ""Charlie and the Chocolate Factory,"" but… https://t.co/pgl2CTcAOf",Tue Mar 03 20:50:05 +0000 2020,0.3612,0.135,0.865,0.0
+388,CNN,"Here's the White House questionnaire that asks which part of Trump's campaign ""most appealed"" to applicants. https://t.co/fjNvwGbJqY",Tue Mar 03 20:46:09 +0000 2020,0.0,0.0,1.0,0.0
+389,CNN,"Health care spending on neck and back pain has increased each year since 1996, a new study finds, with Americans an… https://t.co/oX7YiJ646u",Tue Mar 03 20:40:06 +0000 2020,0.25,0.199,0.677,0.124
+390,CNN,"In a heart-stopping video, a brown-throated sloth had to think fast, and quickly curl her arm around her falling in… https://t.co/skwTe95xV5",Tue Mar 03 20:30:06 +0000 2020,-0.1531,0.0,0.918,0.082
+391,CNN,"""President Trump's favorite map doesn't take into account one very critical piece of the electoral equation: popula… https://t.co/m24bH4VHdR",Tue Mar 03 20:20:04 +0000 2020,0.1045,0.139,0.741,0.12
+392,CNN,A mural with a simple message is giving hope to the residents of Nashville after a powerful tornado tore through th… https://t.co/3Wj1Vlw0qg,Tue Mar 03 20:10:06 +0000 2020,0.7964,0.336,0.664,0.0
+393,CNN,Who will come out on top? 14 more states open their polls for the primary race on Tuesday. Join us for Super Tuesda… https://t.co/abjwi7Qw4f,Tue Mar 03 20:00:21 +0000 2020,0.7845,0.273,0.727,0.0
+394,CNN,Candidates applying to join the President's administration will now have to explain what part of Trump's campaign m… https://t.co/aPc8a0BWUo,Tue Mar 03 19:50:05 +0000 2020,0.296,0.109,0.891,0.0
+395,CNN,"The death toll from Tennessee storms rose to at least 22, officials said, with tens of thousands of people left wit… https://t.co/Ifm8DCuWna",Tue Mar 03 19:40:08 +0000 2020,-0.5994,0.0,0.843,0.157
+396,CNN,The coronavirus crisis is casting an even darker shadow over the reeling oil industry. Oil prices have plunged into… https://t.co/EXVxdnx3UJ,Tue Mar 03 19:30:04 +0000 2020,-0.6249,0.0,0.823,0.177
+397,CNN,An Alabama man convicted of killing three police officers in 2004 is scheduled to be executed Thursday despite ques… https://t.co/2YvOboRzUt,Tue Mar 03 19:20:07 +0000 2020,-0.6597,0.0,0.812,0.188
+398,CNN,"There are now 108 confirmed and presumptive positive cases of novel coronavirus in the US, according to an update f… https://t.co/BHD37tONWd",Tue Mar 03 19:10:51 +0000 2020,0.7096,0.237,0.763,0.0
+399,CNN,As anxiety surrounding the coronavirus swirls in the US and some businesses struggle to keep up with the demand for… https://t.co/hzWzuTEOcu,Tue Mar 03 19:00:06 +0000 2020,-0.5423,0.0,0.766,0.234
+400,BBC News (World),Chris Matthews: TV host quits with apology for 'compliments' https://t.co/23V25R3LZ3,Tue Mar 03 03:15:05 +0000 2020,0.0516,0.118,0.882,0.0
+401,BBC News (World),Letter from Africa: Fake news and Nigeria's media https://t.co/NDW6fBQpSK,Tue Mar 03 00:18:58 +0000 2020,-0.4767,0.0,0.721,0.279
+402,BBC News (World),Choppy waters of Brexit threaten Danish fishing https://t.co/Mc6DCD76Vl,Tue Mar 03 00:18:58 +0000 2020,-0.3818,0.0,0.729,0.271
+403,BBC News (World),"RT @BBCRosAtkins: *Latest OS video* – on just what is happening with #coronavirus in Iran? Number of cases suddenly doubling, a video from…",Mon Mar 02 22:24:49 +0000 2020,0.0772,0.061,0.939,0.0
+404,BBC News (World),"Apple agrees payout over allegations it deliberately slowed down older iPhones
+
+https://t.co/Yy1U0gMr0J",Mon Mar 02 22:11:22 +0000 2020,0.2023,0.141,0.859,0.0
+405,BBC News (World),US places new restrictions on Chinese journalists https://t.co/OoYQ5CKqog,Mon Mar 02 21:55:04 +0000 2020,0.0,0.0,1.0,0.0
+406,BBC News (World),Libya conflict: 'Stressed' Ghassan Salame resigns as UN envoy https://t.co/zUcnYdz6Hc,Mon Mar 02 20:24:51 +0000 2020,-0.5574,0.0,0.635,0.365
+407,BBC News (World),"Israeli PM Benjamin Netanyahu has narrow lead over rival Benny Gantz, election exit polls suggest 
+
+https://t.co/Q0bIyWPzpb",Mon Mar 02 20:24:08 +0000 2020,0.0,0.0,1.0,0.0
+408,BBC News (World),Coronavirus: Four more deaths in Washington state https://t.co/mlxgc3h0v7,Mon Mar 02 20:02:16 +0000 2020,0.0,0.0,1.0,0.0
+409,BBC News (World),Iraq power vacuum as political crisis hits PM post https://t.co/AY7MkmbxcX,Mon Mar 02 19:23:22 +0000 2020,-0.6249,0.0,0.687,0.313
+410,BBC News (World),RT @BBCBreaking: Amy Klobuchar drops out of race to be Democratic presidential challenger to Donald Trump and endorses Joe Biden https://t.…,Mon Mar 02 18:41:30 +0000 2020,0.4404,0.17,0.83,0.0
+411,BBC News (World),"Deaths from coronavirus have now passed 3,000 globally https://t.co/nhTQ5BLnYP",Mon Mar 02 17:32:05 +0000 2020,0.0,0.0,1.0,0.0
+412,BBC News (World),RT @bbcworldservice: What's the latest on the #coronavirus worldwide? Here's a 60 second update ⏰ https://t.co/83cyb8bKHf,Mon Mar 02 17:18:02 +0000 2020,-0.34,0.0,0.862,0.138
+413,BBC News (World),Jefferson's hometown snubs founding father to honour slaves https://t.co/yGIFFcLlSX,Mon Mar 02 16:54:51 +0000 2020,0.1531,0.268,0.507,0.225
+414,BBC News (World),Afghan conflict: Taliban to resume attacking local forces after deal with US https://t.co/34GqvfvahZ,Mon Mar 02 16:42:47 +0000 2020,-0.6486,0.0,0.675,0.325
+415,BBC News (World),Fears of US coronavirus outbreak rise after second death https://t.co/e0N7WJfHI8,Mon Mar 02 15:10:02 +0000 2020,-0.7717,0.0,0.544,0.456
+416,BBC News (World),"Global growth ""could halve"" in event of ""intensive"" coronavirus outbreak https://t.co/Y78caWxXPW",Mon Mar 02 14:52:38 +0000 2020,0.3818,0.206,0.794,0.0
+417,BBC News (World),"""It seems to start with a fever, followed by a dry cough""
+
+What is coronavirus and what are the symptoms?… https://t.co/4qAPbCWqH3",Mon Mar 02 13:58:06 +0000 2020,0.0,0.0,1.0,0.0
+418,BBC News (World),"""Either we bring these people to a dignified life in their own land, or everyone will get their share of this burde… https://t.co/WVR9RRrtls",Mon Mar 02 13:07:35 +0000 2020,0.6597,0.213,0.787,0.0
+419,BBC News (World),"Cameroonian filmmaker: 'Why I made a film for £5,000' https://t.co/mYfgbZQi6S",Mon Mar 02 12:32:08 +0000 2020,0.0,0.0,1.0,0.0
+420,CBS News,Lawmakers push for declassification of intelligence on Khashoggi murder https://t.co/tdKVecgdxm https://t.co/MFr6ic8dC5,Wed Mar 04 01:19:32 +0000 2020,-0.3818,0.185,0.536,0.28
+421,CBS News,".@NancyCordes says she asked a top aide on Bernie Sanders' campaign if he thinks they'll win Texas tonight, and he… https://t.co/3toiHEHrsV",Wed Mar 04 01:18:28 +0000 2020,0.6808,0.237,0.763,0.0
+422,CBS News,Nearly four in 10 Alabama Dem voters decided in the last few days and they went overwhelmingly for Biden – he won s… https://t.co/GuL94q2OL9,Wed Mar 04 01:15:03 +0000 2020,0.4939,0.141,0.802,0.057
+423,CBS News,"In Alabama, Biden is carrying black Democratic primary voters. #SuperTuesday 
+https://t.co/dejxP1aVYS https://t.co/k8pfQgeyQc",Wed Mar 04 01:13:14 +0000 2020,0.0,0.0,1.0,0.0
+424,CBS News,"In Alabama, 57 percent of Democratic voters see Biden as the candidate who best understands the concerns of racial… https://t.co/bKfCqiOxeP",Wed Mar 04 01:10:02 +0000 2020,0.6369,0.181,0.819,0.0
+425,CBS News,CBS NEWS SPECIAL REPORT: @NorahODonnell anchors as the results come in for Super Tuesday. Joe Biden is now leading… https://t.co/3lpSnoTWAi,Wed Mar 04 01:07:27 +0000 2020,0.8091,0.289,0.711,0.0
+426,CBS News,"The current CBS News delegate estimate has Biden in the lead, and Bloomberg and Gabbard are on the board for the fi… https://t.co/20LCIsyF4e",Wed Mar 04 01:04:33 +0000 2020,0.0,0.0,1.0,0.0
+427,CBS News,CBS News estimates Oklahoma is a toss-up between Biden and Sanders https://t.co/dejxP1aVYS https://t.co/OAYYmlKZLU,Wed Mar 04 01:01:23 +0000 2020,0.0,0.0,1.0,0.0
+428,CBS News,CBS News estimates Maine is a toss-up between Sanders and Biden https://t.co/dejxP1aVYS https://t.co/Zxhg46yr0I,Wed Mar 04 01:01:19 +0000 2020,0.0,0.0,1.0,0.0
+429,CBS News,"JUST LIKE A JEDI: This 11-year-old ""Star Wars"" fan was born with a shortened arm and missing fingers. Now, she's go… https://t.co/odXvVJxLI0",Wed Mar 04 01:00:26 +0000 2020,-0.0688,0.202,0.585,0.212
+430,CBS News,"CBS News projects Joe Biden wins Alabama primary 
+https://t.co/dejxP1swQq https://t.co/Xf4ZqDiOF7",Wed Mar 04 01:00:17 +0000 2020,0.5719,0.291,0.709,0.0
+431,CBS News,"American Samoa has reported its delegates, putting Mike Bloomberg and Tulsi Gabbard on the board for the first time… https://t.co/2UlSG4WKoh",Wed Mar 04 00:51:58 +0000 2020,0.0,0.0,1.0,0.0
+432,CBS News,"RT @CBSNewsRadio: .@CBSNews political analyst Leonard Steinhorn on Sen. @ewarren's 2020 presidential campaign👇
+
+Warren has been leading in…",Wed Mar 04 00:47:51 +0000 2020,0.0,0.0,1.0,0.0
+433,CBS News,Warren indicates that she is not dropping out Tuesday night https://t.co/ANJSIpSJhm https://t.co/lnTkCuIkcA,Wed Mar 04 00:41:19 +0000 2020,0.0,0.0,1.0,0.0
+434,CBS News,CBS News projects Biden will win North Carolina https://t.co/KZKedAGnQb https://t.co/dVxR1IZnVr,Wed Mar 04 00:40:20 +0000 2020,0.5859,0.297,0.703,0.0
+435,CBS News,"In North Carolina, those looking for someone to unite the country went big for Biden – roughly six in 10 of that gr… https://t.co/OuFkYcJ6hA",Wed Mar 04 00:40:01 +0000 2020,0.0,0.0,1.0,0.0
+436,CBS News,Can't get your hands on hand sanitizer? Make your own https://t.co/yohFIfWQLQ https://t.co/eTdqDQnVQ7,Wed Mar 04 00:39:50 +0000 2020,0.4939,0.225,0.775,0.0
+437,CBS News,"In North Carolina, Biden excelled with black voters – getting over 60% of their vote. https://t.co/dejxP1swQq https://t.co/XS4bK6isKS",Wed Mar 04 00:37:42 +0000 2020,0.4939,0.176,0.824,0.0
+438,CBS News,"RT @tperry518: When asked if @MikeBloomberg will drop out tonight, Bloomberg Campaign Manager Kevin Sheekey says, ""absolutely not.""",Wed Mar 04 00:36:26 +0000 2020,-0.2732,0.0,0.89,0.11
+439,CBS News,"RT @ThisAlexTin: @ericgarcetti also insisted that he would not be @JoeBiden's veep:
+
+""I'm not looking to be vice president. I'm pushing ano…",Wed Mar 04 00:36:07 +0000 2020,0.0,0.0,1.0,0.0
+440,The New York Times,A person who died last week in a Seattle hospital had the coronavirus. It's the earliest known fatality from the in… https://t.co/2WzN4QnLII,Tue Mar 03 18:53:12 +0000 2020,-0.8442,0.0,0.69,0.31
+441,The New York Times,"The U.S government is stepping up efforts to raise awareness about foreign election interference, but observed no s… https://t.co/OpXZtWMbCr",Tue Mar 03 18:50:05 +0000 2020,-0.4215,0.0,0.865,0.135
+442,The New York Times,Iran’s leaders confidently predicted 2 weeks ago that the coronavirus ravaging China would not be a problem in thei… https://t.co/WvVZlBGRNy,Tue Mar 03 18:40:03 +0000 2020,0.6551,0.251,0.749,0.0
+443,The New York Times,"There was only a trace of snow in Central Park last month, only the sixth time the park had no measurable snow in F… https://t.co/FQ06ijm8Hw",Tue Mar 03 18:20:03 +0000 2020,-0.296,0.0,0.913,0.087
+444,The New York Times,"Economists say a coronavirus pandemic could clearly cause a recession in the U.S. But for that to happen, the effec… https://t.co/Zsnv6EB5fR",Tue Mar 03 18:00:10 +0000 2020,-0.0129,0.089,0.819,0.092
+445,The New York Times,"Humans aren’t the only animals on Earth that vote. Here’s what we can learn from meerkats, bees and baboons about f… https://t.co/wHpow7wveI",Tue Mar 03 17:40:02 +0000 2020,0.0,0.0,1.0,0.0
+446,The New York Times,Mike Bloomberg said he intends to stay in the Democratic race for president until November — even if his only way t… https://t.co/xUvmvmoxCS,Tue Mar 03 17:30:10 +0000 2020,0.0,0.0,1.0,0.0
+447,The New York Times,RT @scottdodd: The trial of Robert Durst is set to start this week. Remind yourself of all the details of his life story (missing first wif…,Tue Mar 03 17:28:45 +0000 2020,0.0,0.0,1.0,0.0
+448,The New York Times,The FDA pledged to ramp up efforts and produce a million coronavirus tests by the end of this week. Public and priv… https://t.co/fSnJu8E2Pt,Tue Mar 03 17:20:04 +0000 2020,0.0,0.0,1.0,0.0
+449,The New York Times,"In Opinion
+
+Binyamin Appelbaum writes, “The most important work the government can do to limit economic damage is t… https://t.co/0derNWvPin",Tue Mar 03 17:00:04 +0000 2020,-0.2748,0.09,0.773,0.137
+450,The New York Times,Misconceptions about what can protect you and your family from the coronavirus are spreading fast. @NYTParenting sp… https://t.co/zSp58XHlaR,Tue Mar 03 16:40:04 +0000 2020,0.3818,0.133,0.867,0.0
+451,The New York Times,"Our reporter, @heathertal, has more on what you need to know about how the coronavirus is transmitted. Read her rep… https://t.co/b744Ap1B9l",Tue Mar 03 16:29:49 +0000 2020,0.0,0.0,1.0,0.0
+452,The New York Times,"At least 19 people were killed in Tennessee early Tuesday after powerful tornadoes ripped through the state, offici… https://t.co/BpsnMDelZc",Tue Mar 03 16:10:01 +0000 2020,-0.4019,0.115,0.7,0.185
+453,The New York Times,"The ""Leaning Tower of Dallas,"" an 11-story office building that refused to be demolished for 2 weeks, turning it in… https://t.co/rdyP9J950k",Tue Mar 03 16:00:23 +0000 2020,-0.296,0.0,0.896,0.104
+454,The New York Times,"RT @melbournecoal: NEW: On Sunday night, Faiz Shakir, the campaign manager for Senator Bernie Sanders, received a call from his onetime bos…",Tue Mar 03 15:55:12 +0000 2020,0.0,0.0,1.0,0.0
+455,The New York Times,"“It’s becoming clear that in order for us to win this nomination, that road clearly flows through Joe Biden,” Berni… https://t.co/wTbNLH466u",Tue Mar 03 15:50:06 +0000 2020,0.8442,0.336,0.664,0.0
+456,The New York Times,"With California poised to allocate hundreds of delegates on Super Tuesday, many tech leaders in Silicon Valley have… https://t.co/Au2SkvxyKK",Tue Mar 03 15:40:03 +0000 2020,0.7096,0.258,0.742,0.0
+457,The New York Times,"RT @amyyqin: So much suffering, even beyond the coronavirus: as China wages an all-out war against the epidemic, many w/serious illnesses a…",Tue Mar 03 15:34:05 +0000 2020,-0.888,0.0,0.645,0.355
+458,The New York Times,A series of high-profile Republican retirements and a growing base of Democratic voters have made the Texas congres… https://t.co/wn3I246NQR,Tue Mar 03 15:20:05 +0000 2020,0.1779,0.096,0.904,0.0
+459,The New York Times,"RT @nytimesarts: Yvonne Farrell and Shelley McNamara are the first two women to share the Pritzker Prize, architecture's highest honor http…",Tue Mar 03 15:14:52 +0000 2020,0.8271,0.326,0.674,0.0
