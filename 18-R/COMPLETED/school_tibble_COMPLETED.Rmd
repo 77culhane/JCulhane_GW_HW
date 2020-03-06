@@ -130,18 +130,18 @@ sapply(students, class)
 ```{r}
 # YOUR CODE HERE
 #Count number of schools
-total_schools <- ~Total.Schools
+total_schools <- ~Schools
 #Count number of students
-total_students <- ~Total.Students
+total_students <- ~Students
 #Find city budget
-district_budget <- ~Total.Budget
+district_budget <- ~Budget
 #Find average math/read scores of all students 
-avg_math_score <- ~Avg.Math
-avg_read_score <- ~Avg.Reading
+avg_math_score <- ~AverageMath
+avg_read_score <- ~AverageRead
 #Find passing percentage
-math_pass_rate <- ~Percent.Passing.Math
-read_pass_rate <- ~Percent.Passing.Reading
-ovrll_pass_rate <- ~Overall.Passing
+math_pass_rate <- ~MathPassRate
+read_pass_rate <- ~ReadPassRate
+ovrll_pass_rate <- ~OverallPassRate
 
 summary_tibble <- frame_data(
   total_schools, total_students, district_budget, avg_read_score, avg_math_score, math_pass_rate, read_pass_rate, ovrll_pass_rate,
@@ -165,11 +165,11 @@ grouped_df
 ```{r}
 # YOUR CODE HERE
 school_summary_tibble.tb <- grouped_df %>% 
-  summarise(Avg.Reading.Score=mean(reading_score),
-            Avg.Math.Score=mean(math_score),
-            Total.Students=n(),
+  summarise(AverageRead=mean(reading_score),
+            AverageMath=mean(math_score),
+            Students=n(),
             Budget = mean(budget),
-            Per.Student.Budget = mean(budget) / n()
+            BudgetPerStudent = mean(budget) / n()
             )
 school_summary_tibble.tb
 ```
